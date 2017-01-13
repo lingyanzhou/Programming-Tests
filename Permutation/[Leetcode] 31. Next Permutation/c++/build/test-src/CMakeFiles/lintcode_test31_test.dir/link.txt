@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/lintcode_test31_test.dir/SolutionTest.cpp.o  -o lintcode_test31_test -rdynamic gtest/libgtest.a gtest/libgtest_main.a gtest/libgtest.a -lpthread 

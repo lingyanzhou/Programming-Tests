@@ -1,0 +1,83 @@
+Start testing: Jan 01 12:04 PST
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/home/zhoulingyan/Documents/Programming Test/Permutation/[Leetcode] 31. Next Permutation/c++/build/test-src/lintcode_test31_test"
+Directory: /home/zhoulingyan/Documents/Programming Test/Permutation/[Leetcode] 31. Next Permutation/c++/build/test-src
+"AllTests" start time: Jan 01 12:04 PST
+Output:
+----------------------------------------------------------
+[==========] Running 5 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 5 tests from SolutionTest
+[ RUN      ] SolutionTest.LastPerm
+-1
+3i2i1i
+0i/home/zhoulingyan/Documents/Programming Test/Permutation/[Leetcode] 31. Next Permutation/c++/test-src/SolutionTest.cpp:10: Failure
+      Expected: expected[i]
+      Which is: 1
+To be equal to: actual[i]
+      Which is: 3
+[  FAILED  ] SolutionTest.LastPerm (0 ms)
+[ RUN      ] SolutionTest.FirstPerm
+3
+1i2i3i4i5i
+4
+0i1i2i3i/home/zhoulingyan/Documents/Programming Test/Permutation/[Leetcode] 31. Next Permutation/c++/test-src/SolutionTest.cpp:10: Failure
+      Expected: expected[i]
+      Which is: 5
+To be equal to: actual[i]
+      Which is: 4
+[  FAILED  ] SolutionTest.FirstPerm (0 ms)
+[ RUN      ] SolutionTest.PermWith1ReverseSeqAtTail
+1
+1i2i5i4i3i
+2
+0i1i/home/zhoulingyan/Documents/Programming Test/Permutation/[Leetcode] 31. Next Permutation/c++/test-src/SolutionTest.cpp:10: Failure
+      Expected: expected[i]
+      Which is: 3
+To be equal to: actual[i]
+      Which is: 2
+[  FAILED  ] SolutionTest.PermWith1ReverseSeqAtTail (1 ms)
+[ RUN      ] SolutionTest.PermWith1ReverseSeqAtMiddle
+4
+1i2i4i3i5i6i
+5
+0i1i2i3i/home/zhoulingyan/Documents/Programming Test/Permutation/[Leetcode] 31. Next Permutation/c++/test-src/SolutionTest.cpp:10: Failure
+      Expected: expected[i]
+      Which is: 5
+To be equal to: actual[i]
+      Which is: 3
+[  FAILED  ] SolutionTest.PermWith1ReverseSeqAtMiddle (0 ms)
+[ RUN      ] SolutionTest.PermWith2ReverseSeq
+4
+1i2i5i4i3i9i8i7i
+5
+0i1i2i3i4i/home/zhoulingyan/Documents/Programming Test/Permutation/[Leetcode] 31. Next Permutation/c++/test-src/SolutionTest.cpp:10: Failure
+      Expected: expected[i]
+      Which is: 7
+To be equal to: actual[i]
+      Which is: 3
+[  FAILED  ] SolutionTest.PermWith2ReverseSeq (0 ms)
+[----------] 5 tests from SolutionTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test case ran. (1 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 5 tests, listed below:
+[  FAILED  ] SolutionTest.LastPerm
+[  FAILED  ] SolutionTest.FirstPerm
+[  FAILED  ] SolutionTest.PermWith1ReverseSeqAtTail
+[  FAILED  ] SolutionTest.PermWith1ReverseSeqAtMiddle
+[  FAILED  ] SolutionTest.PermWith2ReverseSeq
+
+ 5 FAILED TESTS
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"AllTests" end time: Jan 01 12:04 PST
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 01 12:04 PST
