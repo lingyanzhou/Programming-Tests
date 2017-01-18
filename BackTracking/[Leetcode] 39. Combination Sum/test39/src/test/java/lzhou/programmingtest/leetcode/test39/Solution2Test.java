@@ -22,6 +22,8 @@ public class Solution2Test {
         return Arrays.asList(new Object[][] { 
                  {new int[]{2, 3, 6, 7}, 7, new Integer[][]{{2,2,3},{7}}},
                  {new int[]{2, 1}, 2, new Integer[][]{{1,1},{2}}},
+                 {new int[]{1,5,6}, 6, new Integer[][]{{1,1,1,1,1,1},{1,5},{6}}},
+                 {new int[]{1,5,6,2,3,4}, 6, new Integer[][]{{1,1,1,1,1,1},{1,1,1,1,2},{1,1,1,3},{1,1,2,2},{1,1,4},{1,2,3},{1,5},{2,2,2},{2,4},{3,3},{6}}},
            });
     }
     private int[] nums;

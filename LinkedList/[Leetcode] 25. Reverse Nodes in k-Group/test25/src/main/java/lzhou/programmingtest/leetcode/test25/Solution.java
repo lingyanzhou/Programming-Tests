@@ -11,70 +11,49 @@ import java.util.*;
  * }
  */
 public class Solution {
+    /**
+     * @param head a ListNode
+     * @param k an integer
+     * @return a ListNode
+     */
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (k<2 || head==null) {
+        // Write your code here
+        if (k==1 || head==null) {
             return head;
         }
         ListNode fakeHead = new ListNode(0);
         fakeHead.next = head;
-        ListNode prev = fakeHead;
-        ListNode cur = prev.next;
-        while (cur!=null) {
-            int count=0;
-            ListNode p1 = prev;
-            ListNode p3 = cur;
-            while (count!=k && cur!=null) {
-                prev = prev.next;
-                cur = cur.next;
-                count+=1;
-            }
-            if (count!=k) {
+        ListNode pre = fakeHead;
+        while (true){
+            ListNode[] nodes = reverseNextK(pre.next, k);
+            if (nodes==null) {
                 break;
             }
-            ListNode p2 = prev;
-            ListNode p4 = cur;
-            
-            p1.next = null;
-            p2.next = null;
-            
-            reverse(p3);
-            p1.next = p2;
-            p3.next = p4;
-            
-            prev = p3;
-            cur = p4;
+            pre.next = nodes[0];
+            pre = nodes[1];
         }
         return fakeHead.next;
     }
     
-    public ListNode reverse(ListNode head) {
-        
-        //dbg_print(head);
-        if (head==null || head.next==null) {
-            return head;
+    public ListNode[] reverseNextK(ListNode head, int k) {
+        ListNode tail = head;
+        while (tail!=null && k!=0) {
+            tail = tail.next;
+            k-=1;
         }
-
-        ListNode prev = null;
+        if (k!=0) {
+            return null;
+        }
+        
+        ListNode pre = null;
         ListNode cur = head;
-        
-        while (cur!=null) {
+        while (cur!=tail) {
             ListNode next = cur.next;
-            cur.next = prev;
-            prev = cur;
-            cur = next;
+            cur.next = pre;
+            pre=cur;
+            cur=next;
         }
-        //dbg_print(prev);
-        
-        return prev;
-    }
-    
-    public static void dbg_print(ListNode head) {
-        System.out.println("print");
-        while (head!=null) {
-            System.out.print(head.val);
-            System.out.print(", ");
-            head = head.next;
-        }
-        System.out.println();
+        head.next = tail;
+        return new ListNode[]{pre, head};
     }
 }
