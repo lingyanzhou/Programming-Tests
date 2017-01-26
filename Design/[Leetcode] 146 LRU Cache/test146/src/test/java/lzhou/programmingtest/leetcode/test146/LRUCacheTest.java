@@ -34,10 +34,10 @@ public class LRUCacheTest
     public void testApp1()
     {
         LRUCache cache = new LRUCache(2);
-        cache.set(1,1);
+        cache.put(1,1);
         assertEquals(1, cache.get(1));
         assertEquals(-1, cache.get(2));
-        cache.set(1,2);
+        cache.put(1,2);
         assertEquals(2, cache.get(1));
     }
 
@@ -47,10 +47,10 @@ public class LRUCacheTest
     public void testApp2()
     {
         LRUCache cache = new LRUCache(2);
-        cache.set(1,1);
+        cache.put(1,1);
         assertEquals(1, cache.get(1));
         assertEquals(-1, cache.get(2));
-        cache.set(2,3);
+        cache.put(2,3);
         assertEquals(3, cache.get(2));
     }
 
@@ -60,12 +60,12 @@ public class LRUCacheTest
     public void testApp3()
     {
         LRUCache cache = new LRUCache(2);
-        cache.set(1,1);
+        cache.put(1,1);
         assertEquals(1, cache.get(1));
         assertEquals(-1, cache.get(2));
-        cache.set(2,3);
+        cache.put(2,3);
         assertEquals(3, cache.get(2));
-        cache.set(4,45);
+        cache.put(4,45);
         assertEquals(45, cache.get(4));
         assertEquals(3, cache.get(2));
         assertEquals(-1, cache.get(1));
@@ -77,14 +77,14 @@ public class LRUCacheTest
     public void testApp4()
     {
         LRUCache cache = new LRUCache(2);
-        cache.set(1,1);
+        cache.put(1,1);
         assertEquals(1, cache.get(1));
         assertEquals(-1, cache.get(2));
-        cache.set(2,3);
+        cache.put(2,3);
         assertEquals(3, cache.get(2));
-        cache.set(1,33);
+        cache.put(1,33);
         assertEquals(33, cache.get(1));
-        cache.set(4,45);
+        cache.put(4,45);
         assertEquals(45, cache.get(4));
         assertEquals(33, cache.get(1));
         assertEquals(-1, cache.get(2));
@@ -96,10 +96,10 @@ public class LRUCacheTest
     public void testApp5()
     {
         LRUCache cache = new LRUCache(2);
-        cache.set(2,1);
-        cache.set(1,1);
-        cache.set(2,3);
-        cache.set(4,1);
+        cache.put(2,1);
+        cache.put(1,1);
+        cache.put(2,3);
+        cache.put(4,1);
         assertEquals(-1, cache.get(1));
         assertEquals(3, cache.get(2));
     }
@@ -110,10 +110,10 @@ public class LRUCacheTest
     public void testApp6()
     {
         LRUCache cache = new LRUCache(1);
-        cache.set(2,1);
-        cache.set(1,1);
-        cache.set(2,3);
-        cache.set(4,1);
+        cache.put(2,1);
+        cache.put(1,1);
+        cache.put(2,3);
+        cache.put(4,1);
         assertEquals(-1, cache.get(2));
         assertEquals(1, cache.get(4));
     }

@@ -2,6 +2,12 @@ package lzhou.programmingtest.leetcode.test377;
 
 import java.util.*;
 
+/**
+ * DP:
+ * * dp[i] means how many combinationssum to i.
+ * * Transfer function: dp[i] = sum(dp[i-x] for x in nums)
+ */
+
 public class Solution {
     public int combinationSum4(int[] nums, int target) {
         int[] dp = new int[target+1];

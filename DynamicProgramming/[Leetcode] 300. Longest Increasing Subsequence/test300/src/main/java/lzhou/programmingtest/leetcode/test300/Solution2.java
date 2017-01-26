@@ -1,11 +1,15 @@
 package lzhou.programmingtest.leetcode.test300;
 import java.util.*;
 
-/*Fastest implementation.
-
-Key idea:
-Keep an array, where the key is sequence length-1, and value is the last elemento of the sequence.
-Keep the array's value in ascending order. This is guaranteed if two sequence has the same length, you use the smaller last element as the value.
+/* DP solution
+ * O(nlogn)
+ *
+ *   * sequences[i][] contains the largest element in all sequences when element i in num is processed.
+ *     If two sequence has the same length, we only need to keep the one with the smaller largest element.
+ *     The lengths of the sequences are the indices .
+ *     It is sorted in ascending order.
+ *   * Transfer: sequence[i+1][]: replace the smallest larger element in sequence[i][] with num[i+1], or append num[i+1] to the end.
+ * 
 */
 public class Solution2 {
     public int lengthOfLIS(int[] nums) {

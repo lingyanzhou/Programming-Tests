@@ -1,4 +1,7 @@
 **/target/*
 **/target
 **/*.swp
+**/.classpath
+**/.project
+**/.settings
 **/CleanCodeHandbook_v1.0.3.pdf
