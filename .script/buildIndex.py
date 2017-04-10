@@ -40,4 +40,4 @@ with open('index.md', 'wt') as f:
             f.write("    * Path:<a href=\"{0}\">{0}</a>\n\n".format(q[1]));
 
             if q[2]!=None:
-                f.write("    * Notes:[{0}]({0})+\n\n".format(q[2]));
+                f.write("    * Notes:<a href=\"{0}\">{0}</a>\n\n".format(q[2]));
