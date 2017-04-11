@@ -1,8 +1,9 @@
-#523. Continuous Subarray Sum
+# 523. Continuous Subarray Sum
 
 [link](https://leetcode.com/problems/continuous-subarray-sum/)
 
-##Hashtable solution
+##  Hashtable solution
+
 Space: O(min(n, k)), Time: O(n) 
 
 * From left to right, calculate the running sum mod `k` (denoted as `sum`).

@@ -1,6 +1,8 @@
-# Leetcode 503. Next Greater Element II
+# [Leetcode] 503. Next Greater Element II
 
-Stack solution
+[Link](https://leetcode.com/problems/next-greater-element-ii/)
+
+## Stack solution
 
 * Keep a stack of (`index`,`value`) pairs.
 * The stack is decreasing w.r.t. each element's `value`.
