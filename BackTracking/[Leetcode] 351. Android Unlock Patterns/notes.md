@@ -1,4 +1,8 @@
-#DFS solution
+# [Leetcode] 351. Android Unlock Patterns
+
+[Link](https://leetcode.com/problems/android-unlock-patterns)
+
+## DFS solution
 
 1. Define `dfs(start, m, n)` as the number of patterns with min/max length of `m`/`n` starting from `start`
 2. Because of symmetry, `numberOfPatterns(m, n)=4*dfs(0, m, n)+4*dfs(1, m, n)+dfs(4, m, n)`
