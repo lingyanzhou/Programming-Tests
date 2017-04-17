@@ -33,9 +33,10 @@ for dirname, dirnames, filenames in os.walk('.'):
 
 with open('index.md', 'wt') as f:
     f.write("# Interview Programming Tests\n\n")
-    for category, questionlist in categories.items():
+    for category in sorted(categories.keys()):
+        questionlist = categories[category]
         f.write("## {0} \n\n".format(category));
-        for q in questionlist:
+        for q in sorted(questionlist):
             f.write("* {0} \n\n".format(q[0]));
             f.write("    * Path:<a href=\"{0}\">{0}</a>\n\n".format(q[1]));
 
