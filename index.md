@@ -1,30 +1,274 @@
 # Interview Programming Tests
 
-## SegmentORBinaryIndexedTree 
+## Recursion 
 
-* [Leetcode] 327. Count of Range Sum 
+* [LeetCode] 544. Output Contest Matches 
 
-    * Path:<a href="./SegmentORBinaryIndexedTree/[Leetcode] 327. Count of Range Sum">./SegmentORBinaryIndexedTree/[Leetcode] 327. Count of Range Sum</a>
+    * Path:<a href="./Recursion/[LeetCode] 544. Output Contest Matches">./Recursion/[LeetCode] 544. Output Contest Matches</a>
 
-* [Leetcode] 315. Count of Smaller Numbers After Self 
+* [Leetcode] 364. Nested List Weight Sum II 
 
-    * Path:<a href="./SegmentORBinaryIndexedTree/[Leetcode] 315. Count of Smaller Numbers After Self">./SegmentORBinaryIndexedTree/[Leetcode] 315. Count of Smaller Numbers After Self</a>
+    * Path:<a href="./Recursion/[Leetcode] 364. Nested List Weight Sum II">./Recursion/[Leetcode] 364. Nested List Weight Sum II</a>
 
-* [Lintcode] 205. Interval Minimum Number 
+* [Lintcode] 371. Print Numbers by Recursion 
 
-    * Path:<a href="./SegmentORBinaryIndexedTree/[Lintcode] 205. Interval Minimum Number">./SegmentORBinaryIndexedTree/[Lintcode] 205. Interval Minimum Number</a>
+    * Path:<a href="./Recursion/[Lintcode] 371. Print Numbers by Recursion">./Recursion/[Lintcode] 371. Print Numbers by Recursion</a>
 
-* [Leetcode] 307. Range Sum Query - Mutable 
+## Tree 
 
-    * Path:<a href="./SegmentORBinaryIndexedTree/[Leetcode] 307. Range Sum Query - Mutable">./SegmentORBinaryIndexedTree/[Leetcode] 307. Range Sum Query - Mutable</a>
+* [Leetcode] 236. Lowest Common Ancestor of a Binary Tree 
 
-* [Lintcode] 249. Count of Smaller Number 
+    * Path:<a href="./Tree/[Leetcode] 236. Lowest Common Ancestor of a Binary Tree">./Tree/[Leetcode] 236. Lowest Common Ancestor of a Binary Tree</a>
 
-    * Path:<a href="./SegmentORBinaryIndexedTree/[Lintcode] 249. Count of Smaller Number">./SegmentORBinaryIndexedTree/[Lintcode] 249. Count of Smaller Number</a>
+* [Leetcode] 549. Binary Tree Longest Consecutive Sequence II 
 
-* [Lintcode] 207. Interval Sum II 
+    * Path:<a href="./Tree/[Leetcode] 549. Binary Tree Longest Consecutive Sequence II">./Tree/[Leetcode] 549. Binary Tree Longest Consecutive Sequence II</a>
 
-    * Path:<a href="./SegmentORBinaryIndexedTree/[Lintcode] 207. Interval Sum II">./SegmentORBinaryIndexedTree/[Lintcode] 207. Interval Sum II</a>
+* [Leetcode] 515. Find Largest Value in Each Tree Row 
+
+    * Path:<a href="./Tree/[Leetcode] 515. Find Largest Value in Each Tree Row">./Tree/[Leetcode] 515. Find Largest Value in Each Tree Row</a>
+
+* [Leetcode] 94. Binary Tree Inorder Traversal 
+
+    * Path:<a href="./Tree/[Leetcode] 94. Binary Tree Inorder Traversal">./Tree/[Leetcode] 94. Binary Tree Inorder Traversal</a>
+
+* [Leetcode] 501. Find Mode in Binary Search Tree 
+
+    * Path:<a href="./Tree/[Leetcode] 501. Find Mode in Binary Search Tree">./Tree/[Leetcode] 501. Find Mode in Binary Search Tree</a>
+
+    * Notes:<a href="./Tree/[Leetcode] 501. Find Mode in Binary Search Tree/notes.md">./Tree/[Leetcode] 501. Find Mode in Binary Search Tree/notes.md</a>
+
+* [Leetcode] 102. Binary Tree Level Order Traversal 
+
+    * Path:<a href="./Tree/[Leetcode] 102. Binary Tree Level Order Traversal">./Tree/[Leetcode] 102. Binary Tree Level Order Traversal</a>
+
+* [Leetcode] 124. Binary Tree Maximum Path Sum 
+
+    * Path:<a href="./Tree/[Leetcode] 124. Binary Tree Maximum Path Sum">./Tree/[Leetcode] 124. Binary Tree Maximum Path Sum</a>
+
+* [Leetcode] 173. Binary Search Tree Iterator 
+
+    * Path:<a href="./Tree/[Leetcode] 173. Binary Search Tree Iterator">./Tree/[Leetcode] 173. Binary Search Tree Iterator</a>
+
+* [Leetcode] 144. Binary Tree Preorder Traversal 
+
+    * Path:<a href="./Tree/[Leetcode] 144. Binary Tree Preorder Traversal">./Tree/[Leetcode] 144. Binary Tree Preorder Traversal</a>
+
+* [Leetcode] 103. Binary Tree Zigzag Level Order Traversal 
+
+    * Path:<a href="./Tree/[Leetcode] 103. Binary Tree Zigzag Level Order Traversal">./Tree/[Leetcode] 103. Binary Tree Zigzag Level Order Traversal</a>
+
+* [Leetcode] 449. Serialize and Deserialize BST 
+
+    * Path:<a href="./Tree/[Leetcode] 449. Serialize and Deserialize BST">./Tree/[Leetcode] 449. Serialize and Deserialize BST</a>
+
+* [Leetcode] 235. Lowest Common Ancestor of a Binary Search Tree 
+
+    * Path:<a href="./Tree/[Leetcode] 235. Lowest Common Ancestor of a Binary Search Tree">./Tree/[Leetcode] 235. Lowest Common Ancestor of a Binary Search Tree</a>
+
+* [Leetcode] 297. Serialize and Deserialize Binary Tree 
+
+    * Path:<a href="./Tree/[Leetcode] 297. Serialize and Deserialize Binary Tree">./Tree/[Leetcode] 297. Serialize and Deserialize Binary Tree</a>
+
+* [Leetcode] 145. Binary Tree Postorder Traversal 
+
+    * Path:<a href="./Tree/[Leetcode] 145. Binary Tree Postorder Traversal">./Tree/[Leetcode] 145. Binary Tree Postorder Traversal</a>
+
+* [Leetcode] 450. Delete Node in a BST 
+
+    * Path:<a href="./Tree/[Leetcode] 450. Delete Node in a BST">./Tree/[Leetcode] 450. Delete Node in a BST</a>
+
+* [Leetcode] 513. Find Bottom Left Tree Value 
+
+    * Path:<a href="./Tree/[Leetcode] 513. Find Bottom Left Tree Value">./Tree/[Leetcode] 513. Find Bottom Left Tree Value</a>
+
+    * Notes:<a href="./Tree/[Leetcode] 513. Find Bottom Left Tree Value/notes.md">./Tree/[Leetcode] 513. Find Bottom Left Tree Value/notes.md</a>
+
+* [Leetcode] 437. Path Sum III 
+
+    * Path:<a href="./Tree/[Leetcode] 437. Path Sum III">./Tree/[Leetcode] 437. Path Sum III</a>
+
+* [Leetcode] 105. Construct Binary Tree from Preorder and Inorder Traversal 
+
+    * Path:<a href="./Tree/[Leetcode] 105. Construct Binary Tree from Preorder and Inorder Traversal">./Tree/[Leetcode] 105. Construct Binary Tree from Preorder and Inorder Traversal</a>
+
+* [Leetcode] 538. Convert BST to Greater Tree 
+
+    * Path:<a href="./Tree/[Leetcode] 538. Convert BST to Greater Tree">./Tree/[Leetcode] 538. Convert BST to Greater Tree</a>
+
+* [Leetcode] 106. Construct Binary Tree from Inorder and Postorder Traversal 
+
+    * Path:<a href="./Tree/[Leetcode] 106. Construct Binary Tree from Inorder and Postorder Traversal">./Tree/[Leetcode] 106. Construct Binary Tree from Inorder and Postorder Traversal</a>
+
+* [Leetcode] 107. Binary Tree Level Order Traversal II 
+
+    * Path:<a href="./Tree/[Leetcode] 107. Binary Tree Level Order Traversal II">./Tree/[Leetcode] 107. Binary Tree Level Order Traversal II</a>
+
+* [Leetcode] 298. Binary Tree Longest Consecutive Sequence 
+
+    * Path:<a href="./Tree/[Leetcode] 298. Binary Tree Longest Consecutive Sequence">./Tree/[Leetcode] 298. Binary Tree Longest Consecutive Sequence</a>
+
+## String 
+
+* UnorderedAnagrammaticPairs 
+
+    * Path:<a href="./String/UnorderedAnagrammaticPairs">./String/UnorderedAnagrammaticPairs</a>
+
+* [Lintcode] 180. Binary Representation 
+
+    * Path:<a href="./String/[Lintcode] 180. Binary Representation">./String/[Lintcode] 180. Binary Representation</a>
+
+* SmallestKmp 
+
+    * Path:<a href="./String/SmallestKmp">./String/SmallestKmp</a>
+
+* [Leetcode] 13. Roman to Integer 
+
+    * Path:<a href="./String/[Leetcode] 13. Roman to Integer">./String/[Leetcode] 13. Roman to Integer</a>
+
+* [Leetcode] 12. Integer to Roman 
+
+    * Path:<a href="./String/[Leetcode] 12. Integer to Roman">./String/[Leetcode] 12. Integer to Roman</a>
+
+* [Leetcode] 3. Longest Substring Without Repeating Characters 
+
+    * Path:<a href="./String/[Leetcode] 3. Longest Substring Without Repeating Characters">./String/[Leetcode] 3. Longest Substring Without Repeating Characters</a>
+
+* [Leetcode] 8. String to Integer (atoi) 
+
+    * Path:<a href="./String/[Leetcode] 8. String to Integer (atoi)">./String/[Leetcode] 8. String to Integer (atoi)</a>
+
+* [Leetcode] 5. Longest Palindromic Substring 
+
+    * Path:<a href="./String/[Leetcode] 5. Longest Palindromic Substring">./String/[Leetcode] 5. Longest Palindromic Substring</a>
+
+* [Leetcode] 522. Longest Uncommon Subsequence II 
+
+    * Path:<a href="./String/[Leetcode] 522. Longest Uncommon Subsequence II">./String/[Leetcode] 522. Longest Uncommon Subsequence II</a>
+
+* [Lintcode] 78. Longest Common Prefix 
+
+    * Path:<a href="./String/[Lintcode] 78. Longest Common Prefix">./String/[Lintcode] 78. Longest Common Prefix</a>
+
+* [Leetcode] 482. License Key Formatting 
+
+    * Path:<a href="./String/[Leetcode] 482. License Key Formatting">./String/[Leetcode] 482. License Key Formatting</a>
+
+* StreadyGene 
+
+    * Path:<a href="./String/StreadyGene">./String/StreadyGene</a>
+
+* [Leetcode] 76. Minimum Window Substring 
+
+    * Path:<a href="./String/[Leetcode] 76. Minimum Window Substring">./String/[Leetcode] 76. Minimum Window Substring</a>
+
+* [Leetcode] 556. Next Greater Element III  
+
+    * Path:<a href="./String/[Leetcode] 556. Next Greater Element III ">./String/[Leetcode] 556. Next Greater Element III </a>
+
+    * Notes:<a href="./String/[Leetcode] 556. Next Greater Element III /notes.md">./String/[Leetcode] 556. Next Greater Element III /notes.md</a>
+
+* [Leetcode] 555. Split Assembled Strings 
+
+    * Path:<a href="./String/[Leetcode] 555. Split Assembled Strings">./String/[Leetcode] 555. Split Assembled Strings</a>
+
+    * Notes:<a href="./String/[Leetcode] 555. Split Assembled Strings/notes.md">./String/[Leetcode] 555. Split Assembled Strings/notes.md</a>
+
+* [Leetcode] 459. Repeated Substring Pattern 
+
+    * Path:<a href="./String/[Leetcode] 459. Repeated Substring Pattern">./String/[Leetcode] 459. Repeated Substring Pattern</a>
+
+* string_cleaning 
+
+    * Path:<a href="./String/string_cleaning">./String/string_cleaning</a>
+
+* [Leetcode] 151. Reverse Words in a String 
+
+    * Path:<a href="./String/[Leetcode] 151. Reverse Words in a String">./String/[Leetcode] 151. Reverse Words in a String</a>
+
+* [Leetcode] 438. Find All Anagrams in a String 
+
+    * Path:<a href="./String/[Leetcode] 438. Find All Anagrams in a String">./String/[Leetcode] 438. Find All Anagrams in a String</a>
+
+* [Leetcode] 271. Encode and Decode Strings 
+
+    * Path:<a href="./String/[Leetcode] 271. Encode and Decode Strings">./String/[Leetcode] 271. Encode and Decode Strings</a>
+
+* [Leetcode] 524. Longest Word in Dictionary 
+
+    * Path:<a href="./String/[Leetcode] 524. Longest Word in Dictionary">./String/[Leetcode] 524. Longest Word in Dictionary</a>
+
+    * Notes:<a href="./String/[Leetcode] 524. Longest Word in Dictionary/notes.md">./String/[Leetcode] 524. Longest Word in Dictionary/notes.md</a>
+
+* KMP 
+
+    * Path:<a href="./String/KMP">./String/KMP</a>
+
+## Palindrome 
+
+* [Leetcode] 132. Palindrome Partitioning II 
+
+    * Path:<a href="./Palindrome/[Leetcode] 132. Palindrome Partitioning II">./Palindrome/[Leetcode] 132. Palindrome Partitioning II</a>
+
+* [Leetcode] 5. Longest Palindromic Substring 
+
+    * Path:<a href="./Palindrome/[Leetcode] 5. Longest Palindromic Substring">./Palindrome/[Leetcode] 5. Longest Palindromic Substring</a>
+
+* [Leetcode] 131. Palindrome Partitioning 
+
+    * Path:<a href="./Palindrome/[Leetcode] 131. Palindrome Partitioning">./Palindrome/[Leetcode] 131. Palindrome Partitioning</a>
+
+* [Leetcode] 214. Shortest Palindrome 
+
+    * Path:<a href="./Palindrome/[Leetcode] 214. Shortest Palindrome">./Palindrome/[Leetcode] 214. Shortest Palindrome</a>
+
+## DivideAndConquer 
+
+* [Leetcode] 241. Different Ways to Add Parentheses 
+
+    * Path:<a href="./DivideAndConquer/[Leetcode] 241. Different Ways to Add Parentheses">./DivideAndConquer/[Leetcode] 241. Different Ways to Add Parentheses</a>
+
+* [Leetcode] 282. Expression Add Operators 
+
+    * Path:<a href="./DivideAndConquer/[Leetcode] 282. Expression Add Operators">./DivideAndConquer/[Leetcode] 282. Expression Add Operators</a>
+
+* [Leetcode] 54. Spiral Matrix 
+
+    * Path:<a href="./DivideAndConquer/[Leetcode] 54. Spiral Matrix">./DivideAndConquer/[Leetcode] 54. Spiral Matrix</a>
+
+* [Lintcode] 366.  Fibonacci 
+
+    * Path:<a href="./DivideAndConquer/[Lintcode] 366.  Fibonacci">./DivideAndConquer/[Lintcode] 366.  Fibonacci</a>
+
+* [Lintcode] 48. Majority Number III 
+
+    * Path:<a href="./DivideAndConquer/[Lintcode] 48. Majority Number III">./DivideAndConquer/[Lintcode] 48. Majority Number III</a>
+
+* [Leetcode] 169. Majority Element 
+
+    * Path:<a href="./DivideAndConquer/[Leetcode] 169. Majority Element">./DivideAndConquer/[Leetcode] 169. Majority Element</a>
+
+* [Leetcode] 229. Majority Element II 
+
+    * Path:<a href="./DivideAndConquer/[Leetcode] 229. Majority Element II">./DivideAndConquer/[Leetcode] 229. Majority Element II</a>
+
+## Greedy 
+
+* [Leetcode] 435. Non-overlapping Intervals 
+
+    * Path:<a href="./Greedy/[Leetcode] 435. Non-overlapping Intervals">./Greedy/[Leetcode] 435. Non-overlapping Intervals</a>
+
+* [Leetcode] 135. Candy 
+
+    * Path:<a href="./Greedy/[Leetcode] 135. Candy">./Greedy/[Leetcode] 135. Candy</a>
+
+* [Leetcode] 134. Gas Station 
+
+    * Path:<a href="./Greedy/[Leetcode] 134. Gas Station">./Greedy/[Leetcode] 134. Gas Station</a>
+
+* [Leetcode] 406. Queue Reconstruction by Height 
+
+    * Path:<a href="./Greedy/[Leetcode] 406. Queue Reconstruction by Height">./Greedy/[Leetcode] 406. Queue Reconstruction by Height</a>
 
 ## Sort 
 
@@ -101,54 +345,6 @@
 * [Leetcode] 211. Add and Search Word - Data structure design 
 
     * Path:<a href="./Trie/[Leetcode] 211. Add and Search Word - Data structure design">./Trie/[Leetcode] 211. Add and Search Word - Data structure design</a>
-
-## Heap 
-
-* [Leetcode] 378. Kth Smallest Element in a Sorted Matrix 
-
-    * Path:<a href="./Heap/[Leetcode] 378. Kth Smallest Element in a Sorted Matrix">./Heap/[Leetcode] 378. Kth Smallest Element in a Sorted Matrix</a>
-
-* [Leetcode] 373. Find K Pairs with Smallest Sums 
-
-    * Path:<a href="./Heap/[Leetcode] 373. Find K Pairs with Smallest Sums">./Heap/[Leetcode] 373. Find K Pairs with Smallest Sums</a>
-
-* [Lintcode] 130. Heapify 
-
-    * Path:<a href="./Heap/[Lintcode] 130. Heapify">./Heap/[Lintcode] 130. Heapify</a>
-
-* [Leetcode] 23. Merge k Sorted Lists 
-
-    * Path:<a href="./Heap/[Leetcode] 23. Merge k Sorted Lists">./Heap/[Leetcode] 23. Merge k Sorted Lists</a>
-
-* [Lintcode] 81. Data Stream Median 
-
-    * Path:<a href="./Heap/[Lintcode] 81. Data Stream Median">./Heap/[Lintcode] 81. Data Stream Median</a>
-
-* Heap Implementation 
-
-    * Path:<a href="./Heap/Heap Implementation">./Heap/Heap Implementation</a>
-
-* [Leetcode] 451. Sort Characters By Frequency 
-
-    * Path:<a href="./Heap/[Leetcode] 451. Sort Characters By Frequency">./Heap/[Leetcode] 451. Sort Characters By Frequency</a>
-
-## Greedy 
-
-* [Leetcode] 435. Non-overlapping Intervals 
-
-    * Path:<a href="./Greedy/[Leetcode] 435. Non-overlapping Intervals">./Greedy/[Leetcode] 435. Non-overlapping Intervals</a>
-
-* [Leetcode] 135. Candy 
-
-    * Path:<a href="./Greedy/[Leetcode] 135. Candy">./Greedy/[Leetcode] 135. Candy</a>
-
-* [Leetcode] 134. Gas Station 
-
-    * Path:<a href="./Greedy/[Leetcode] 134. Gas Station">./Greedy/[Leetcode] 134. Gas Station</a>
-
-* [Leetcode] 406. Queue Reconstruction by Height 
-
-    * Path:<a href="./Greedy/[Leetcode] 406. Queue Reconstruction by Height">./Greedy/[Leetcode] 406. Queue Reconstruction by Height</a>
 
 ## BackTracking 
 
@@ -256,55 +452,225 @@
 
     * Path:<a href="./BackTracking/[Leetcode] 526. Beautiful Arrangement">./BackTracking/[Leetcode] 526. Beautiful Arrangement</a>
 
-## LinkedList 
+## Array 
 
-* [Lintcode] 98. Sort List 
+* [Lintcode] 548. Intersection of Two Arrays II 
 
-    * Path:<a href="./LinkedList/[Lintcode] 98. Sort List">./LinkedList/[Lintcode] 98. Sort List</a>
+    * Path:<a href="./Array/[Lintcode] 548. Intersection of Two Arrays II">./Array/[Lintcode] 548. Intersection of Two Arrays II</a>
 
-* [Leetcode] 25. Reverse Nodes in k-Group 
+* [Leetcode] 498. Diagonal Traverse 
 
-    * Path:<a href="./LinkedList/[Leetcode] 25. Reverse Nodes in k-Group">./LinkedList/[Leetcode] 25. Reverse Nodes in k-Group</a>
+    * Path:<a href="./Array/[Leetcode] 498. Diagonal Traverse">./Array/[Leetcode] 498. Diagonal Traverse</a>
 
-* [Leetcode] 141. Linked List Cycle 
+    * Notes:<a href="./Array/[Leetcode] 498. Diagonal Traverse/notes.md">./Array/[Leetcode] 498. Diagonal Traverse/notes.md</a>
 
-    * Path:<a href="./LinkedList/[Leetcode] 141. Linked List Cycle">./LinkedList/[Leetcode] 141. Linked List Cycle</a>
+* [Lintcode] 42. Maximum Subarray II  
 
-* [Lintcode] 511. Swap Two Nodes in Linked List 
+    * Path:<a href="./Array/[Lintcode] 42. Maximum Subarray II ">./Array/[Lintcode] 42. Maximum Subarray II </a>
 
-    * Path:<a href="./LinkedList/[Lintcode] 511. Swap Two Nodes in Linked List">./LinkedList/[Lintcode] 511. Swap Two Nodes in Linked List</a>
+* [Leetcode] 48. Rotate Image 
 
-* [Leetcode] 61. Rotate List 
+    * Path:<a href="./Array/[Leetcode] 48. Rotate Image">./Array/[Leetcode] 48. Rotate Image</a>
 
-    * Path:<a href="./LinkedList/[Leetcode] 61. Rotate List">./LinkedList/[Leetcode] 61. Rotate List</a>
+* [Leetcode] 289. Game of Life 
 
-* [Leetcode] 138. Copy List with Random Pointer 
+    * Path:<a href="./Array/[Leetcode] 289. Game of Life">./Array/[Leetcode] 289. Game of Life</a>
 
-    * Path:<a href="./LinkedList/[Leetcode] 138. Copy List with Random Pointer">./LinkedList/[Leetcode] 138. Copy List with Random Pointer</a>
+* [Leetcode] 85. Maximal Rectangle 
 
-* [Lintcode] 113. Remove Duplicates from Sorted List II 
+    * Path:<a href="./Array/[Leetcode] 85. Maximal Rectangle">./Array/[Leetcode] 85. Maximal Rectangle</a>
 
-    * Path:<a href="./LinkedList/[Lintcode] 113. Remove Duplicates from Sorted List II">./LinkedList/[Lintcode] 113. Remove Duplicates from Sorted List II</a>
+* [Geeks for Geeks] The Celebrity Problem 
 
-* [Lintcode] 173. Insertion Sort List 
+    * Path:<a href="./Array/[Geeks for Geeks] The Celebrity Problem">./Array/[Geeks for Geeks] The Celebrity Problem</a>
 
-    * Path:<a href="./LinkedList/[Lintcode] 173. Insertion Sort List">./LinkedList/[Lintcode] 173. Insertion Sort List</a>
+* [Leetcode]  189. Rotate Array 
 
-* [Leetcode] 160. Intersection of Two Linked Lists 
+    * Path:<a href="./Array/[Leetcode]  189. Rotate Array">./Array/[Leetcode]  189. Rotate Array</a>
 
-    * Path:<a href="./LinkedList/[Leetcode] 160. Intersection of Two Linked Lists">./LinkedList/[Leetcode] 160. Intersection of Two Linked Lists</a>
+* [Leetcode] 57. Insert Interval 
 
-* [Leetcode] 234. Palindrome Linked List 
+    * Path:<a href="./Array/[Leetcode] 57. Insert Interval">./Array/[Leetcode] 57. Insert Interval</a>
 
-    * Path:<a href="./LinkedList/[Leetcode] 234. Palindrome Linked List">./LinkedList/[Leetcode] 234. Palindrome Linked List</a>
+* [Leetcode] 529. Minesweeper 
 
-* [Leetcode] 24. Swap Nodes in Pairs 
+    * Path:<a href="./Array/[Leetcode] 529. Minesweeper">./Array/[Leetcode] 529. Minesweeper</a>
 
-    * Path:<a href="./LinkedList/[Leetcode] 24. Swap Nodes in Pairs">./LinkedList/[Leetcode] 24. Swap Nodes in Pairs</a>
+    * Notes:<a href="./Array/[Leetcode] 529. Minesweeper/notes.md">./Array/[Leetcode] 529. Minesweeper/notes.md</a>
 
-* [Leetcode] 142. Linked List Cycle II 
+* [Leetcode] 457. Circular Array Loop 
 
-    * Path:<a href="./LinkedList/[Leetcode] 142. Linked List Cycle II">./LinkedList/[Leetcode] 142. Linked List Cycle II</a>
+    * Path:<a href="./Array/[Leetcode] 457. Circular Array Loop">./Array/[Leetcode] 457. Circular Array Loop</a>
+
+* [Leetcode] 302. Smallest Rectangle Enclosing Black Pixels 
+
+    * Path:<a href="./Array/[Leetcode] 302. Smallest Rectangle Enclosing Black Pixels">./Array/[Leetcode] 302. Smallest Rectangle Enclosing Black Pixels</a>
+
+* [Leetcode] 442. Find All Duplicates in an Array 
+
+    * Path:<a href="./Array/[Leetcode] 442. Find All Duplicates in an Array">./Array/[Leetcode] 442. Find All Duplicates in an Array</a>
+
+* [Leetcode] 149. Max Points on a Line 
+
+    * Path:<a href="./Array/[Leetcode] 149. Max Points on a Line">./Array/[Leetcode] 149. Max Points on a Line</a>
+
+* [Leetcode] 16. 3Sum Closest 
+
+    * Path:<a href="./Array/[Leetcode] 16. 3Sum Closest">./Array/[Leetcode] 16. 3Sum Closest</a>
+
+* [Leetcode] 424. Longest Repeating Character Replacement 
+
+    * Path:<a href="./Array/[Leetcode] 424. Longest Repeating Character Replacement">./Array/[Leetcode] 424. Longest Repeating Character Replacement</a>
+
+* [Leetcode] 462. Minimum Moves to Equal Array Elements II 
+
+    * Path:<a href="./Array/[Leetcode] 462. Minimum Moves to Equal Array Elements II">./Array/[Leetcode] 462. Minimum Moves to Equal Array Elements II</a>
+
+* [Lintcode] 39. Recover Rotated Sorted Array 
+
+    * Path:<a href="./Array/[Lintcode] 39. Recover Rotated Sorted Array">./Array/[Lintcode] 39. Recover Rotated Sorted Array</a>
+
+* [Leetcode] 448. Find All Numbers Disappeared in an Array 
+
+    * Path:<a href="./Array/[Leetcode] 448. Find All Numbers Disappeared in an Array">./Array/[Leetcode] 448. Find All Numbers Disappeared in an Array</a>
+
+* [Leetcode] 15. 3Sum 
+
+    * Path:<a href="./Array/[Leetcode] 15. 3Sum">./Array/[Leetcode] 15. 3Sum</a>
+
+* [Leetcode] 42. Trapping Rain Water 
+
+    * Path:<a href="./Array/[Leetcode] 42. Trapping Rain Water">./Array/[Leetcode] 42. Trapping Rain Water</a>
+
+* [Leetcode]  84. Largest Rectangle in Histogram 
+
+    * Path:<a href="./Array/[Leetcode]  84. Largest Rectangle in Histogram">./Array/[Leetcode]  84. Largest Rectangle in Histogram</a>
+
+* [Leetcode] 539. Minimum Time Difference 
+
+    * Path:<a href="./Array/[Leetcode] 539. Minimum Time Difference">./Array/[Leetcode] 539. Minimum Time Difference</a>
+
+* [Lintcode] 56. Two Sum 
+
+    * Path:<a href="./Array/[Lintcode] 56. Two Sum">./Array/[Lintcode] 56. Two Sum</a>
+
+* [Leetcode] 41. First Missing Positive 
+
+    * Path:<a href="./Array/[Leetcode] 41. First Missing Positive">./Array/[Leetcode] 41. First Missing Positive</a>
+
+* [Leetcode] 209. Minimum Size Subarray Sum 
+
+    * Path:<a href="./Array/[Leetcode] 209. Minimum Size Subarray Sum">./Array/[Leetcode] 209. Minimum Size Subarray Sum</a>
+
+* [Leetcode] 56. Merge Interval 
+
+    * Path:<a href="./Array/[Leetcode] 56. Merge Interval">./Array/[Leetcode] 56. Merge Interval</a>
+
+* [Leetcode] 73. Set Matrix Zeroes 
+
+    * Path:<a href="./Array/[Leetcode] 73. Set Matrix Zeroes">./Array/[Leetcode] 73. Set Matrix Zeroes</a>
+
+* [Leetcode] 296. Best Meeting Point 
+
+    * Path:<a href="./Array/[Leetcode] 296. Best Meeting Point">./Array/[Leetcode] 296. Best Meeting Point</a>
+
+* [Leetcode] 11. Container With Most Water 
+
+    * Path:<a href="./Array/[Leetcode] 11. Container With Most Water">./Array/[Leetcode] 11. Container With Most Water</a>
+
+* [Lintcode] 139. Subarray Sum Closest  
+
+    * Path:<a href="./Array/[Lintcode] 139. Subarray Sum Closest ">./Array/[Lintcode] 139. Subarray Sum Closest </a>
+
+* [Leetcode] 268. Missing Number 
+
+    * Path:<a href="./Array/[Leetcode] 268. Missing Number">./Array/[Leetcode] 268. Missing Number</a>
+
+* [Leetcode] 18. 4Sum 
+
+    * Path:<a href="./Array/[Leetcode] 18. 4Sum">./Array/[Leetcode] 18. 4Sum</a>
+
+* [Leetcode] 503. Next Greater Element II 
+
+    * Path:<a href="./Array/[Leetcode] 503. Next Greater Element II">./Array/[Leetcode] 503. Next Greater Element II</a>
+
+    * Notes:<a href="./Array/[Leetcode] 503. Next Greater Element II/notes.md">./Array/[Leetcode] 503. Next Greater Element II/notes.md</a>
+
+* [Lintcode] 50. Product of Array Exclude Itself 
+
+    * Path:<a href="./Array/[Lintcode] 50. Product of Array Exclude Itself">./Array/[Lintcode] 50. Product of Array Exclude Itself</a>
+
+* [Leetcode] 167. Two Sum II - Input array is sorted 
+
+    * Path:<a href="./Array/[Leetcode] 167. Two Sum II - Input array is sorted">./Array/[Leetcode] 167. Two Sum II - Input array is sorted</a>
+
+* [Leetcode] 525. Contiguous Array 
+
+    * Path:<a href="./Array/[Leetcode] 525. Contiguous Array">./Array/[Leetcode] 525. Contiguous Array</a>
+
+    * Notes:<a href="./Array/[Leetcode] 525. Contiguous Array/notes.md">./Array/[Leetcode] 525. Contiguous Array/notes.md</a>
+
+## Search 
+
+* [Leetcode] 287. Find the Duplicate Number 
+
+    * Path:<a href="./Search/[Leetcode] 287. Find the Duplicate Number">./Search/[Leetcode] 287. Find the Duplicate Number</a>
+
+* [Lintcode] 141. Sqrt(x) 
+
+    * Path:<a href="./Search/[Lintcode] 141. Sqrt(x)">./Search/[Lintcode] 141. Sqrt(x)</a>
+
+* [Lintcode] 617. Maximum Average Subarray 
+
+    * Path:<a href="./Search/[Lintcode] 617. Maximum Average Subarray">./Search/[Lintcode] 617. Maximum Average Subarray</a>
+
+* [Leetcode] 436. Find Right Interval 
+
+    * Path:<a href="./Search/[Leetcode] 436. Find Right Interval">./Search/[Leetcode] 436. Find Right Interval</a>
+
+* [Leetcode] 127. Word Ladder 
+
+    * Path:<a href="./Search/[Leetcode] 127. Word Ladder">./Search/[Leetcode] 127. Word Ladder</a>
+
+* [[Leetcode] 126. Word Ladder II 
+
+    * Path:<a href="./Search/[[Leetcode] 126. Word Ladder II">./Search/[[Leetcode] 126. Word Ladder II</a>
+
+* [Leetcode] 162. Find Peak Element 
+
+    * Path:<a href="./Search/[Leetcode] 162. Find Peak Element">./Search/[Leetcode] 162. Find Peak Element</a>
+
+* [Lintcode] 143. Sort Colors II 
+
+    * Path:<a href="./Search/[Lintcode] 143. Sort Colors II">./Search/[Lintcode] 143. Sort Colors II</a>
+
+* [Lintcode] 437. Copy Books 
+
+    * Path:<a href="./Search/[Lintcode] 437. Copy Books">./Search/[Lintcode] 437. Copy Books</a>
+
+* [Lintcode] 183. Wood Cut 
+
+    * Path:<a href="./Search/[Lintcode] 183. Wood Cut">./Search/[Lintcode] 183. Wood Cut</a>
+
+* [Lintcode] 387. The Smallest Difference 
+
+    * Path:<a href="./Search/[Lintcode] 387. The Smallest Difference">./Search/[Lintcode] 387. The Smallest Difference</a>
+
+* [Leetcode] 540. Single Element in a Sorted Array 
+
+    * Path:<a href="./Search/[Leetcode] 540. Single Element in a Sorted Array">./Search/[Leetcode] 540. Single Element in a Sorted Array</a>
+
+* [Leetcode] 278. First Bad Version 
+
+    * Path:<a href="./Search/[Leetcode] 278. First Bad Version">./Search/[Leetcode] 278. First Bad Version</a>
+
+* [Leetcode] 74. Search a 2D Matrix 
+
+    * Path:<a href="./Search/[Leetcode] 74. Search a 2D Matrix">./Search/[Leetcode] 74. Search a 2D Matrix</a>
+
+* [Leetcode] 154. Find Minimum in Rotated Sorted Array II 
+
+    * Path:<a href="./Search/[Leetcode] 154. Find Minimum in Rotated Sorted Array II">./Search/[Leetcode] 154. Find Minimum in Rotated Sorted Array II</a>
 
 ## DynamicProgramming 
 
@@ -389,6 +755,12 @@
 * [Leetcode] 204. Count Primes 
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 204. Count Primes">./DynamicProgramming/[Leetcode] 204. Count Primes</a>
+
+* [Leetcode] 552. Student Attendance Record 
+
+    * Path:<a href="./DynamicProgramming/[Leetcode] 552. Student Attendance Record">./DynamicProgramming/[Leetcode] 552. Student Attendance Record</a>
+
+    * Notes:<a href="./DynamicProgramming/[Leetcode] 552. Student Attendance Record/notes.md">./DynamicProgramming/[Leetcode] 552. Student Attendance Record/notes.md</a>
 
 * [Leetcode] 115. Distinct Subsequences 
 
@@ -566,6 +938,70 @@
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 322. Coin Change">./DynamicProgramming/[Leetcode] 322. Coin Change</a>
 
+## Heap 
+
+* [Leetcode] 378. Kth Smallest Element in a Sorted Matrix 
+
+    * Path:<a href="./Heap/[Leetcode] 378. Kth Smallest Element in a Sorted Matrix">./Heap/[Leetcode] 378. Kth Smallest Element in a Sorted Matrix</a>
+
+* [Leetcode] 373. Find K Pairs with Smallest Sums 
+
+    * Path:<a href="./Heap/[Leetcode] 373. Find K Pairs with Smallest Sums">./Heap/[Leetcode] 373. Find K Pairs with Smallest Sums</a>
+
+* [Lintcode] 130. Heapify 
+
+    * Path:<a href="./Heap/[Lintcode] 130. Heapify">./Heap/[Lintcode] 130. Heapify</a>
+
+* [Leetcode] 23. Merge k Sorted Lists 
+
+    * Path:<a href="./Heap/[Leetcode] 23. Merge k Sorted Lists">./Heap/[Leetcode] 23. Merge k Sorted Lists</a>
+
+* [Lintcode] 81. Data Stream Median 
+
+    * Path:<a href="./Heap/[Lintcode] 81. Data Stream Median">./Heap/[Lintcode] 81. Data Stream Median</a>
+
+* Heap Implementation 
+
+    * Path:<a href="./Heap/Heap Implementation">./Heap/Heap Implementation</a>
+
+* [Leetcode] 451. Sort Characters By Frequency 
+
+    * Path:<a href="./Heap/[Leetcode] 451. Sort Characters By Frequency">./Heap/[Leetcode] 451. Sort Characters By Frequency</a>
+
+## HashTable 
+
+* [Leetcode] 554. Brick Wall 
+
+    * Path:<a href="./HashTable/[Leetcode] 554. Brick Wall">./HashTable/[Leetcode] 554. Brick Wall</a>
+
+    * Notes:<a href="./HashTable/[Leetcode] 554. Brick Wall/notes.md">./HashTable/[Leetcode] 554. Brick Wall/notes.md</a>
+
+* [Lintcode] 129. Rehashing 
+
+    * Path:<a href="./HashTable/[Lintcode] 129. Rehashing">./HashTable/[Lintcode] 129. Rehashing</a>
+
+* [Leetcode] 30. Substring with Concatenation of All Words 
+
+    * Path:<a href="./HashTable/[Leetcode] 30. Substring with Concatenation of All Words">./HashTable/[Leetcode] 30. Substring with Concatenation of All Words</a>
+
+* [Leetcode] 36. Valid Sudoku 
+
+    * Path:<a href="./HashTable/[Leetcode] 36. Valid Sudoku">./HashTable/[Leetcode] 36. Valid Sudoku</a>
+
+* [Leetcode] 356. Line Reflection 
+
+    * Path:<a href="./HashTable/[Leetcode] 356. Line Reflection">./HashTable/[Leetcode] 356. Line Reflection</a>
+
+* [Leetcode] 49. Group Anagrams 
+
+    * Path:<a href="./HashTable/[Leetcode] 49. Group Anagrams">./HashTable/[Leetcode] 49. Group Anagrams</a>
+
+* [Leetcode] 523. Continuous Subarray Sum 
+
+    * Path:<a href="./HashTable/[Leetcode] 523. Continuous Subarray Sum">./HashTable/[Leetcode] 523. Continuous Subarray Sum</a>
+
+    * Notes:<a href="./HashTable/[Leetcode] 523. Continuous Subarray Sum/notes.md">./HashTable/[Leetcode] 523. Continuous Subarray Sum/notes.md</a>
+
 ## Stack 
 
 * [Leetcode] 155. Min Stack 
@@ -596,194 +1032,6 @@
 
     * Path:<a href="./Stack/[Leetcode] 341. Flatten Nested List Iterator">./Stack/[Leetcode] 341. Flatten Nested List Iterator</a>
 
-## Array 
-
-* [Lintcode] 548. Intersection of Two Arrays II 
-
-    * Path:<a href="./Array/[Lintcode] 548. Intersection of Two Arrays II">./Array/[Lintcode] 548. Intersection of Two Arrays II</a>
-
-* [Leetcode] 498. Diagonal Traverse 
-
-    * Path:<a href="./Array/[Leetcode] 498. Diagonal Traverse">./Array/[Leetcode] 498. Diagonal Traverse</a>
-
-    * Notes:<a href="./Array/[Leetcode] 498. Diagonal Traverse/notes.md">./Array/[Leetcode] 498. Diagonal Traverse/notes.md</a>
-
-* [Lintcode] 42. Maximum Subarray II  
-
-    * Path:<a href="./Array/[Lintcode] 42. Maximum Subarray II ">./Array/[Lintcode] 42. Maximum Subarray II </a>
-
-* [Leetcode] 48. Rotate Image 
-
-    * Path:<a href="./Array/[Leetcode] 48. Rotate Image">./Array/[Leetcode] 48. Rotate Image</a>
-
-* [Leetcode] 289. Game of Life 
-
-    * Path:<a href="./Array/[Leetcode] 289. Game of Life">./Array/[Leetcode] 289. Game of Life</a>
-
-* [Leetcode] 85. Maximal Rectangle 
-
-    * Path:<a href="./Array/[Leetcode] 85. Maximal Rectangle">./Array/[Leetcode] 85. Maximal Rectangle</a>
-
-* [Geeks for Geeks] The Celebrity Problem 
-
-    * Path:<a href="./Array/[Geeks for Geeks] The Celebrity Problem">./Array/[Geeks for Geeks] The Celebrity Problem</a>
-
-* [Leetcode]  189. Rotate Array 
-
-    * Path:<a href="./Array/[Leetcode]  189. Rotate Array">./Array/[Leetcode]  189. Rotate Array</a>
-
-* [Leetcode] 57. Insert Interval 
-
-    * Path:<a href="./Array/[Leetcode] 57. Insert Interval">./Array/[Leetcode] 57. Insert Interval</a>
-
-* [Leetcode] 529. Minesweeper 
-
-    * Path:<a href="./Array/[Leetcode] 529. Minesweeper">./Array/[Leetcode] 529. Minesweeper</a>
-
-    * Notes:<a href="./Array/[Leetcode] 529. Minesweeper/notes.md">./Array/[Leetcode] 529. Minesweeper/notes.md</a>
-
-* [Leetcode] 457. Circular Array Loop 
-
-    * Path:<a href="./Array/[Leetcode] 457. Circular Array Loop">./Array/[Leetcode] 457. Circular Array Loop</a>
-
-* [Leetcode] 302. Smallest Rectangle Enclosing Black Pixels 
-
-    * Path:<a href="./Array/[Leetcode] 302. Smallest Rectangle Enclosing Black Pixels">./Array/[Leetcode] 302. Smallest Rectangle Enclosing Black Pixels</a>
-
-* [Leetcode] 442. Find All Duplicates in an Array 
-
-    * Path:<a href="./Array/[Leetcode] 442. Find All Duplicates in an Array">./Array/[Leetcode] 442. Find All Duplicates in an Array</a>
-
-* [Leetcode] 149. Max Points on a Line 
-
-    * Path:<a href="./Array/[Leetcode] 149. Max Points on a Line">./Array/[Leetcode] 149. Max Points on a Line</a>
-
-* [Leetcode] 16. 3Sum Closest 
-
-    * Path:<a href="./Array/[Leetcode] 16. 3Sum Closest">./Array/[Leetcode] 16. 3Sum Closest</a>
-
-* [Leetcode] 424. Longest Repeating Character Replacement 
-
-    * Path:<a href="./Array/[Leetcode] 424. Longest Repeating Character Replacement">./Array/[Leetcode] 424. Longest Repeating Character Replacement</a>
-
-* [Leetcode] 462. Minimum Moves to Equal Array Elements II 
-
-    * Path:<a href="./Array/[Leetcode] 462. Minimum Moves to Equal Array Elements II">./Array/[Leetcode] 462. Minimum Moves to Equal Array Elements II</a>
-
-* [Lintcode] 39. Recover Rotated Sorted Array 
-
-    * Path:<a href="./Array/[Lintcode] 39. Recover Rotated Sorted Array">./Array/[Lintcode] 39. Recover Rotated Sorted Array</a>
-
-* [Leetcode] 448. Find All Numbers Disappeared in an Array 
-
-    * Path:<a href="./Array/[Leetcode] 448. Find All Numbers Disappeared in an Array">./Array/[Leetcode] 448. Find All Numbers Disappeared in an Array</a>
-
-* [Leetcode] 15. 3Sum 
-
-    * Path:<a href="./Array/[Leetcode] 15. 3Sum">./Array/[Leetcode] 15. 3Sum</a>
-
-* [Leetcode] 42. Trapping Rain Water 
-
-    * Path:<a href="./Array/[Leetcode] 42. Trapping Rain Water">./Array/[Leetcode] 42. Trapping Rain Water</a>
-
-* [Leetcode]  84. Largest Rectangle in Histogram 
-
-    * Path:<a href="./Array/[Leetcode]  84. Largest Rectangle in Histogram">./Array/[Leetcode]  84. Largest Rectangle in Histogram</a>
-
-* [Leetcode] 539. Minimum Time Difference 
-
-    * Path:<a href="./Array/[Leetcode] 539. Minimum Time Difference">./Array/[Leetcode] 539. Minimum Time Difference</a>
-
-* [Lintcode] 56. Two Sum 
-
-    * Path:<a href="./Array/[Lintcode] 56. Two Sum">./Array/[Lintcode] 56. Two Sum</a>
-
-* [Leetcode] 41. First Missing Positive 
-
-    * Path:<a href="./Array/[Leetcode] 41. First Missing Positive">./Array/[Leetcode] 41. First Missing Positive</a>
-
-* [Leetcode] 209. Minimum Size Subarray Sum 
-
-    * Path:<a href="./Array/[Leetcode] 209. Minimum Size Subarray Sum">./Array/[Leetcode] 209. Minimum Size Subarray Sum</a>
-
-* [Leetcode] 56. Merge Interval 
-
-    * Path:<a href="./Array/[Leetcode] 56. Merge Interval">./Array/[Leetcode] 56. Merge Interval</a>
-
-* [Leetcode] 73. Set Matrix Zeroes 
-
-    * Path:<a href="./Array/[Leetcode] 73. Set Matrix Zeroes">./Array/[Leetcode] 73. Set Matrix Zeroes</a>
-
-* [Leetcode] 296. Best Meeting Point 
-
-    * Path:<a href="./Array/[Leetcode] 296. Best Meeting Point">./Array/[Leetcode] 296. Best Meeting Point</a>
-
-* [Leetcode] 11. Container With Most Water 
-
-    * Path:<a href="./Array/[Leetcode] 11. Container With Most Water">./Array/[Leetcode] 11. Container With Most Water</a>
-
-* [Lintcode] 139. Subarray Sum Closest  
-
-    * Path:<a href="./Array/[Lintcode] 139. Subarray Sum Closest ">./Array/[Lintcode] 139. Subarray Sum Closest </a>
-
-* [Leetcode] 268. Missing Number 
-
-    * Path:<a href="./Array/[Leetcode] 268. Missing Number">./Array/[Leetcode] 268. Missing Number</a>
-
-* [Leetcode] 18. 4Sum 
-
-    * Path:<a href="./Array/[Leetcode] 18. 4Sum">./Array/[Leetcode] 18. 4Sum</a>
-
-* [Leetcode] 503. Next Greater Element II 
-
-    * Path:<a href="./Array/[Leetcode] 503. Next Greater Element II">./Array/[Leetcode] 503. Next Greater Element II</a>
-
-    * Notes:<a href="./Array/[Leetcode] 503. Next Greater Element II/notes.md">./Array/[Leetcode] 503. Next Greater Element II/notes.md</a>
-
-* [Lintcode] 50. Product of Array Exclude Itself 
-
-    * Path:<a href="./Array/[Lintcode] 50. Product of Array Exclude Itself">./Array/[Lintcode] 50. Product of Array Exclude Itself</a>
-
-* [Leetcode] 167. Two Sum II - Input array is sorted 
-
-    * Path:<a href="./Array/[Leetcode] 167. Two Sum II - Input array is sorted">./Array/[Leetcode] 167. Two Sum II - Input array is sorted</a>
-
-* [Leetcode] 525. Contiguous Array 
-
-    * Path:<a href="./Array/[Leetcode] 525. Contiguous Array">./Array/[Leetcode] 525. Contiguous Array</a>
-
-    * Notes:<a href="./Array/[Leetcode] 525. Contiguous Array/notes.md">./Array/[Leetcode] 525. Contiguous Array/notes.md</a>
-
-## DivideAndConquer 
-
-* [Leetcode] 241. Different Ways to Add Parentheses 
-
-    * Path:<a href="./DivideAndConquer/[Leetcode] 241. Different Ways to Add Parentheses">./DivideAndConquer/[Leetcode] 241. Different Ways to Add Parentheses</a>
-
-* [Leetcode] 282. Expression Add Operators 
-
-    * Path:<a href="./DivideAndConquer/[Leetcode] 282. Expression Add Operators">./DivideAndConquer/[Leetcode] 282. Expression Add Operators</a>
-
-* [Leetcode] 54. Spiral Matrix 
-
-    * Path:<a href="./DivideAndConquer/[Leetcode] 54. Spiral Matrix">./DivideAndConquer/[Leetcode] 54. Spiral Matrix</a>
-
-* [Lintcode] 366.  Fibonacci 
-
-    * Path:<a href="./DivideAndConquer/[Lintcode] 366.  Fibonacci">./DivideAndConquer/[Lintcode] 366.  Fibonacci</a>
-
-* [Lintcode] 48. Majority Number III 
-
-    * Path:<a href="./DivideAndConquer/[Lintcode] 48. Majority Number III">./DivideAndConquer/[Lintcode] 48. Majority Number III</a>
-
-* [Leetcode] 169. Majority Element 
-
-    * Path:<a href="./DivideAndConquer/[Leetcode] 169. Majority Element">./DivideAndConquer/[Leetcode] 169. Majority Element</a>
-
-* [Leetcode] 229. Majority Element II 
-
-    * Path:<a href="./DivideAndConquer/[Leetcode] 229. Majority Element II">./DivideAndConquer/[Leetcode] 229. Majority Element II</a>
-
 ## Math 
 
 * [Leetcode] 372. Super Pow 
@@ -793,6 +1041,10 @@
 * [Leetcode] 382. Linked List Random Node 
 
     * Path:<a href="./Math/[Leetcode] 382. Linked List Random Node">./Math/[Leetcode] 382. Linked List Random Node</a>
+
+* [Leetcode] 553. Optimal Division 
+
+    * Path:<a href="./Math/[Leetcode] 553. Optimal Division">./Math/[Leetcode] 553. Optimal Division</a>
 
 * [Leetcode] 29. Divide Two Integers 
 
@@ -822,69 +1074,13 @@
 
     * Path:<a href="./Math/[Leetcode] 50. Pow(x, n)">./Math/[Leetcode] 50. Pow(x, n)</a>
 
-## Search 
-
-* [Leetcode] 287. Find the Duplicate Number 
-
-    * Path:<a href="./Search/[Leetcode] 287. Find the Duplicate Number">./Search/[Leetcode] 287. Find the Duplicate Number</a>
-
-* [Lintcode] 141. Sqrt(x) 
-
-    * Path:<a href="./Search/[Lintcode] 141. Sqrt(x)">./Search/[Lintcode] 141. Sqrt(x)</a>
-
-* [Lintcode] 617. Maximum Average Subarray 
-
-    * Path:<a href="./Search/[Lintcode] 617. Maximum Average Subarray">./Search/[Lintcode] 617. Maximum Average Subarray</a>
-
-* [Leetcode] 436. Find Right Interval 
-
-    * Path:<a href="./Search/[Leetcode] 436. Find Right Interval">./Search/[Leetcode] 436. Find Right Interval</a>
-
-* [Leetcode] 127. Word Ladder 
-
-    * Path:<a href="./Search/[Leetcode] 127. Word Ladder">./Search/[Leetcode] 127. Word Ladder</a>
-
-* [[Leetcode] 126. Word Ladder II 
-
-    * Path:<a href="./Search/[[Leetcode] 126. Word Ladder II">./Search/[[Leetcode] 126. Word Ladder II</a>
-
-* [Leetcode] 162. Find Peak Element 
-
-    * Path:<a href="./Search/[Leetcode] 162. Find Peak Element">./Search/[Leetcode] 162. Find Peak Element</a>
-
-* [Lintcode] 143. Sort Colors II 
-
-    * Path:<a href="./Search/[Lintcode] 143. Sort Colors II">./Search/[Lintcode] 143. Sort Colors II</a>
-
-* [Lintcode] 437. Copy Books 
-
-    * Path:<a href="./Search/[Lintcode] 437. Copy Books">./Search/[Lintcode] 437. Copy Books</a>
-
-* [Lintcode] 183. Wood Cut 
-
-    * Path:<a href="./Search/[Lintcode] 183. Wood Cut">./Search/[Lintcode] 183. Wood Cut</a>
-
-* [Lintcode] 387. The Smallest Difference 
-
-    * Path:<a href="./Search/[Lintcode] 387. The Smallest Difference">./Search/[Lintcode] 387. The Smallest Difference</a>
-
-* [Leetcode] 540. Single Element in a Sorted Array 
-
-    * Path:<a href="./Search/[Leetcode] 540. Single Element in a Sorted Array">./Search/[Leetcode] 540. Single Element in a Sorted Array</a>
-
-* [Leetcode] 278. First Bad Version 
-
-    * Path:<a href="./Search/[Leetcode] 278. First Bad Version">./Search/[Leetcode] 278. First Bad Version</a>
-
-* [Leetcode] 74. Search a 2D Matrix 
-
-    * Path:<a href="./Search/[Leetcode] 74. Search a 2D Matrix">./Search/[Leetcode] 74. Search a 2D Matrix</a>
-
-* [Leetcode] 154. Find Minimum in Rotated Sorted Array II 
-
-    * Path:<a href="./Search/[Leetcode] 154. Find Minimum in Rotated Sorted Array II">./Search/[Leetcode] 154. Find Minimum in Rotated Sorted Array II</a>
-
 ## GraphTheory 
+
+* [LeetCode] 444. Sequence Reconstruction 
+
+    * Path:<a href="./GraphTheory/[LeetCode] 444. Sequence Reconstruction">./GraphTheory/[LeetCode] 444. Sequence Reconstruction</a>
+
+    * Notes:<a href="./GraphTheory/[LeetCode] 444. Sequence Reconstruction/notes.md">./GraphTheory/[LeetCode] 444. Sequence Reconstruction/notes.md</a>
 
 * [Leetcode] 128. Longest Consecutive Sequence 
 
@@ -936,286 +1132,6 @@
 
     * Path:<a href="./GraphTheory/[Lintcode] 178. Graph Valid Tree">./GraphTheory/[Lintcode] 178. Graph Valid Tree</a>
 
-## Tree 
-
-* [Leetcode] 236. Lowest Common Ancestor of a Binary Tree 
-
-    * Path:<a href="./Tree/[Leetcode] 236. Lowest Common Ancestor of a Binary Tree">./Tree/[Leetcode] 236. Lowest Common Ancestor of a Binary Tree</a>
-
-* [Leetcode] 549. Binary Tree Longest Consecutive Sequence II 
-
-    * Path:<a href="./Tree/[Leetcode] 549. Binary Tree Longest Consecutive Sequence II">./Tree/[Leetcode] 549. Binary Tree Longest Consecutive Sequence II</a>
-
-* [Leetcode] 515. Find Largest Value in Each Tree Row 
-
-    * Path:<a href="./Tree/[Leetcode] 515. Find Largest Value in Each Tree Row">./Tree/[Leetcode] 515. Find Largest Value in Each Tree Row</a>
-
-* [Leetcode] 94. Binary Tree Inorder Traversal 
-
-    * Path:<a href="./Tree/[Leetcode] 94. Binary Tree Inorder Traversal">./Tree/[Leetcode] 94. Binary Tree Inorder Traversal</a>
-
-* [Leetcode] 501. Find Mode in Binary Search Tree 
-
-    * Path:<a href="./Tree/[Leetcode] 501. Find Mode in Binary Search Tree">./Tree/[Leetcode] 501. Find Mode in Binary Search Tree</a>
-
-    * Notes:<a href="./Tree/[Leetcode] 501. Find Mode in Binary Search Tree/notes.md">./Tree/[Leetcode] 501. Find Mode in Binary Search Tree/notes.md</a>
-
-* [Leetcode] 102. Binary Tree Level Order Traversal 
-
-    * Path:<a href="./Tree/[Leetcode] 102. Binary Tree Level Order Traversal">./Tree/[Leetcode] 102. Binary Tree Level Order Traversal</a>
-
-* [Leetcode] 124. Binary Tree Maximum Path Sum 
-
-    * Path:<a href="./Tree/[Leetcode] 124. Binary Tree Maximum Path Sum">./Tree/[Leetcode] 124. Binary Tree Maximum Path Sum</a>
-
-* [Leetcode] 173. Binary Search Tree Iterator 
-
-    * Path:<a href="./Tree/[Leetcode] 173. Binary Search Tree Iterator">./Tree/[Leetcode] 173. Binary Search Tree Iterator</a>
-
-* [Leetcode] 144. Binary Tree Preorder Traversal 
-
-    * Path:<a href="./Tree/[Leetcode] 144. Binary Tree Preorder Traversal">./Tree/[Leetcode] 144. Binary Tree Preorder Traversal</a>
-
-* [Leetcode] 103. Binary Tree Zigzag Level Order Traversal 
-
-    * Path:<a href="./Tree/[Leetcode] 103. Binary Tree Zigzag Level Order Traversal">./Tree/[Leetcode] 103. Binary Tree Zigzag Level Order Traversal</a>
-
-* [Leetcode] 449. Serialize and Deserialize BST 
-
-    * Path:<a href="./Tree/[Leetcode] 449. Serialize and Deserialize BST">./Tree/[Leetcode] 449. Serialize and Deserialize BST</a>
-
-* [Leetcode] 235. Lowest Common Ancestor of a Binary Search Tree 
-
-    * Path:<a href="./Tree/[Leetcode] 235. Lowest Common Ancestor of a Binary Search Tree">./Tree/[Leetcode] 235. Lowest Common Ancestor of a Binary Search Tree</a>
-
-* [Leetcode] 297. Serialize and Deserialize Binary Tree 
-
-    * Path:<a href="./Tree/[Leetcode] 297. Serialize and Deserialize Binary Tree">./Tree/[Leetcode] 297. Serialize and Deserialize Binary Tree</a>
-
-* [Leetcode] 145. Binary Tree Postorder Traversal 
-
-    * Path:<a href="./Tree/[Leetcode] 145. Binary Tree Postorder Traversal">./Tree/[Leetcode] 145. Binary Tree Postorder Traversal</a>
-
-* [Leetcode] 450. Delete Node in a BST 
-
-    * Path:<a href="./Tree/[Leetcode] 450. Delete Node in a BST">./Tree/[Leetcode] 450. Delete Node in a BST</a>
-
-* [Leetcode] 513. Find Bottom Left Tree Value 
-
-    * Path:<a href="./Tree/[Leetcode] 513. Find Bottom Left Tree Value">./Tree/[Leetcode] 513. Find Bottom Left Tree Value</a>
-
-    * Notes:<a href="./Tree/[Leetcode] 513. Find Bottom Left Tree Value/notes.md">./Tree/[Leetcode] 513. Find Bottom Left Tree Value/notes.md</a>
-
-* [Leetcode] 437. Path Sum III 
-
-    * Path:<a href="./Tree/[Leetcode] 437. Path Sum III">./Tree/[Leetcode] 437. Path Sum III</a>
-
-* [Leetcode] 105. Construct Binary Tree from Preorder and Inorder Traversal 
-
-    * Path:<a href="./Tree/[Leetcode] 105. Construct Binary Tree from Preorder and Inorder Traversal">./Tree/[Leetcode] 105. Construct Binary Tree from Preorder and Inorder Traversal</a>
-
-* [Leetcode] 538. Convert BST to Greater Tree 
-
-    * Path:<a href="./Tree/[Leetcode] 538. Convert BST to Greater Tree">./Tree/[Leetcode] 538. Convert BST to Greater Tree</a>
-
-* [Leetcode] 106. Construct Binary Tree from Inorder and Postorder Traversal 
-
-    * Path:<a href="./Tree/[Leetcode] 106. Construct Binary Tree from Inorder and Postorder Traversal">./Tree/[Leetcode] 106. Construct Binary Tree from Inorder and Postorder Traversal</a>
-
-* [Leetcode] 107. Binary Tree Level Order Traversal II 
-
-    * Path:<a href="./Tree/[Leetcode] 107. Binary Tree Level Order Traversal II">./Tree/[Leetcode] 107. Binary Tree Level Order Traversal II</a>
-
-* [Leetcode] 298. Binary Tree Longest Consecutive Sequence 
-
-    * Path:<a href="./Tree/[Leetcode] 298. Binary Tree Longest Consecutive Sequence">./Tree/[Leetcode] 298. Binary Tree Longest Consecutive Sequence</a>
-
-## StateMachine 
-
-* [Leetcode] 71. Simplify Path 
-
-    * Path:<a href="./StateMachine/[Leetcode] 71. Simplify Path">./StateMachine/[Leetcode] 71. Simplify Path</a>
-
-* [Lintcode] 307. Convert Expression to Reverse Polish Notation 
-
-    * Path:<a href="./StateMachine/[Lintcode] 307. Convert Expression to Reverse Polish Notation">./StateMachine/[Lintcode] 307. Convert Expression to Reverse Polish Notation</a>
-
-* [Lintcode] 367. Expression Evaluation 
-
-    * Path:<a href="./StateMachine/[Lintcode] 367. Expression Evaluation">./StateMachine/[Lintcode] 367. Expression Evaluation</a>
-
-* [Leetcode] 65. Valid Number 
-
-    * Path:<a href="./StateMachine/[Leetcode] 65. Valid Number">./StateMachine/[Leetcode] 65. Valid Number</a>
-
-## Functional Programming 
-
-* [careercup] 5720947240730624 Lambda B reduction 
-
-    * Path:<a href="./Functional Programming/[careercup] 5720947240730624 Lambda B reduction">./Functional Programming/[careercup] 5720947240730624 Lambda B reduction</a>
-
-    * Notes:<a href="./Functional Programming/[careercup] 5720947240730624 Lambda B reduction/notes.md">./Functional Programming/[careercup] 5720947240730624 Lambda B reduction/notes.md</a>
-
-## Recursion 
-
-* [LeetCode] 544. Output Contest Matches 
-
-    * Path:<a href="./Recursion/[LeetCode] 544. Output Contest Matches">./Recursion/[LeetCode] 544. Output Contest Matches</a>
-
-* [Leetcode] 364. Nested List Weight Sum II 
-
-    * Path:<a href="./Recursion/[Leetcode] 364. Nested List Weight Sum II">./Recursion/[Leetcode] 364. Nested List Weight Sum II</a>
-
-* [Lintcode] 371. Print Numbers by Recursion 
-
-    * Path:<a href="./Recursion/[Lintcode] 371. Print Numbers by Recursion">./Recursion/[Lintcode] 371. Print Numbers by Recursion</a>
-
-## String 
-
-* UnorderedAnagrammaticPairs 
-
-    * Path:<a href="./String/UnorderedAnagrammaticPairs">./String/UnorderedAnagrammaticPairs</a>
-
-* [Lintcode] 180. Binary Representation 
-
-    * Path:<a href="./String/[Lintcode] 180. Binary Representation">./String/[Lintcode] 180. Binary Representation</a>
-
-* SmallestKmp 
-
-    * Path:<a href="./String/SmallestKmp">./String/SmallestKmp</a>
-
-* [Leetcode] 13. Roman to Integer 
-
-    * Path:<a href="./String/[Leetcode] 13. Roman to Integer">./String/[Leetcode] 13. Roman to Integer</a>
-
-* [Leetcode] 12. Integer to Roman 
-
-    * Path:<a href="./String/[Leetcode] 12. Integer to Roman">./String/[Leetcode] 12. Integer to Roman</a>
-
-* [Leetcode] 3. Longest Substring Without Repeating Characters 
-
-    * Path:<a href="./String/[Leetcode] 3. Longest Substring Without Repeating Characters">./String/[Leetcode] 3. Longest Substring Without Repeating Characters</a>
-
-* [Leetcode] 8. String to Integer (atoi) 
-
-    * Path:<a href="./String/[Leetcode] 8. String to Integer (atoi)">./String/[Leetcode] 8. String to Integer (atoi)</a>
-
-* [Leetcode] 5. Longest Palindromic Substring 
-
-    * Path:<a href="./String/[Leetcode] 5. Longest Palindromic Substring">./String/[Leetcode] 5. Longest Palindromic Substring</a>
-
-* [Leetcode] 522. Longest Uncommon Subsequence II 
-
-    * Path:<a href="./String/[Leetcode] 522. Longest Uncommon Subsequence II">./String/[Leetcode] 522. Longest Uncommon Subsequence II</a>
-
-* [Lintcode] 78. Longest Common Prefix 
-
-    * Path:<a href="./String/[Lintcode] 78. Longest Common Prefix">./String/[Lintcode] 78. Longest Common Prefix</a>
-
-* [Leetcode] 482. License Key Formatting 
-
-    * Path:<a href="./String/[Leetcode] 482. License Key Formatting">./String/[Leetcode] 482. License Key Formatting</a>
-
-* StreadyGene 
-
-    * Path:<a href="./String/StreadyGene">./String/StreadyGene</a>
-
-* [Leetcode] 76. Minimum Window Substring 
-
-    * Path:<a href="./String/[Leetcode] 76. Minimum Window Substring">./String/[Leetcode] 76. Minimum Window Substring</a>
-
-* [Leetcode] 556. Next Greater Element III  
-
-    * Path:<a href="./String/[Leetcode] 556. Next Greater Element III ">./String/[Leetcode] 556. Next Greater Element III </a>
-
-    * Notes:<a href="./String/[Leetcode] 556. Next Greater Element III /notes.md">./String/[Leetcode] 556. Next Greater Element III /notes.md</a>
-
-* [Leetcode] 459. Repeated Substring Pattern 
-
-    * Path:<a href="./String/[Leetcode] 459. Repeated Substring Pattern">./String/[Leetcode] 459. Repeated Substring Pattern</a>
-
-* string_cleaning 
-
-    * Path:<a href="./String/string_cleaning">./String/string_cleaning</a>
-
-* [Leetcode] 151. Reverse Words in a String 
-
-    * Path:<a href="./String/[Leetcode] 151. Reverse Words in a String">./String/[Leetcode] 151. Reverse Words in a String</a>
-
-* [Leetcode] 438. Find All Anagrams in a String 
-
-    * Path:<a href="./String/[Leetcode] 438. Find All Anagrams in a String">./String/[Leetcode] 438. Find All Anagrams in a String</a>
-
-* [Leetcode] 271. Encode and Decode Strings 
-
-    * Path:<a href="./String/[Leetcode] 271. Encode and Decode Strings">./String/[Leetcode] 271. Encode and Decode Strings</a>
-
-* [Leetcode] 524. Longest Word in Dictionary 
-
-    * Path:<a href="./String/[Leetcode] 524. Longest Word in Dictionary">./String/[Leetcode] 524. Longest Word in Dictionary</a>
-
-    * Notes:<a href="./String/[Leetcode] 524. Longest Word in Dictionary/notes.md">./String/[Leetcode] 524. Longest Word in Dictionary/notes.md</a>
-
-* KMP 
-
-    * Path:<a href="./String/KMP">./String/KMP</a>
-
-## Palindrome 
-
-* [Leetcode] 132. Palindrome Partitioning II 
-
-    * Path:<a href="./Palindrome/[Leetcode] 132. Palindrome Partitioning II">./Palindrome/[Leetcode] 132. Palindrome Partitioning II</a>
-
-* [Leetcode] 5. Longest Palindromic Substring 
-
-    * Path:<a href="./Palindrome/[Leetcode] 5. Longest Palindromic Substring">./Palindrome/[Leetcode] 5. Longest Palindromic Substring</a>
-
-* [Leetcode] 131. Palindrome Partitioning 
-
-    * Path:<a href="./Palindrome/[Leetcode] 131. Palindrome Partitioning">./Palindrome/[Leetcode] 131. Palindrome Partitioning</a>
-
-* [Leetcode] 214. Shortest Palindrome 
-
-    * Path:<a href="./Palindrome/[Leetcode] 214. Shortest Palindrome">./Palindrome/[Leetcode] 214. Shortest Palindrome</a>
-
-## BitManipulation 
-
-* [Leetcode] 405. Convert a Number to Hexadecimal 
-
-    * Path:<a href="./BitManipulation/[Leetcode] 405. Convert a Number to Hexadecimal">./BitManipulation/[Leetcode] 405. Convert a Number to Hexadecimal</a>
-
-* XorSequence 
-
-    * Path:<a href="./BitManipulation/XorSequence">./BitManipulation/XorSequence</a>
-
-* [Leetcode] 190. Reverse Bits 
-
-    * Path:<a href="./BitManipulation/[Leetcode] 190. Reverse Bits">./BitManipulation/[Leetcode] 190. Reverse Bits</a>
-
-* [Leetcode] 201. Bitwise AND of Numbers Range 
-
-    * Path:<a href="./BitManipulation/[Leetcode] 201. Bitwise AND of Numbers Range">./BitManipulation/[Leetcode] 201. Bitwise AND of Numbers Range</a>
-
-* [Lintcode] 179. Update Bits 
-
-    * Path:<a href="./BitManipulation/[Lintcode] 179. Update Bits">./BitManipulation/[Lintcode] 179. Update Bits</a>
-
-* [Leetcode] 137. Single Number II 
-
-    * Path:<a href="./BitManipulation/[Leetcode] 137. Single Number II">./BitManipulation/[Leetcode] 137. Single Number II</a>
-
-* AND Product 
-
-    * Path:<a href="./BitManipulation/AND Product">./BitManipulation/AND Product</a>
-
-* [Lintcode] 365. Count 1 in Binary 
-
-    * Path:<a href="./BitManipulation/[Lintcode] 365. Count 1 in Binary">./BitManipulation/[Lintcode] 365. Count 1 in Binary</a>
-
-* [Leetcode] 260. Single Number III 
-
-    * Path:<a href="./BitManipulation/[Leetcode] 260. Single Number III">./BitManipulation/[Leetcode] 260. Single Number III</a>
-
 ## Design 
 
 * [Leetcode] 380. Insert Delete GetRandom O(1) 
@@ -1266,6 +1182,146 @@
 
     * Path:<a href="./Design/[Leetcode] 348. Design Tic-Tac-Toe">./Design/[Leetcode] 348. Design Tic-Tac-Toe</a>
 
+## StateMachine 
+
+* [Leetcode] 71. Simplify Path 
+
+    * Path:<a href="./StateMachine/[Leetcode] 71. Simplify Path">./StateMachine/[Leetcode] 71. Simplify Path</a>
+
+* [Lintcode] 307. Convert Expression to Reverse Polish Notation 
+
+    * Path:<a href="./StateMachine/[Lintcode] 307. Convert Expression to Reverse Polish Notation">./StateMachine/[Lintcode] 307. Convert Expression to Reverse Polish Notation</a>
+
+* [Lintcode] 367. Expression Evaluation 
+
+    * Path:<a href="./StateMachine/[Lintcode] 367. Expression Evaluation">./StateMachine/[Lintcode] 367. Expression Evaluation</a>
+
+* [Leetcode] 65. Valid Number 
+
+    * Path:<a href="./StateMachine/[Leetcode] 65. Valid Number">./StateMachine/[Leetcode] 65. Valid Number</a>
+
+## BitManipulation 
+
+* [Leetcode] 405. Convert a Number to Hexadecimal 
+
+    * Path:<a href="./BitManipulation/[Leetcode] 405. Convert a Number to Hexadecimal">./BitManipulation/[Leetcode] 405. Convert a Number to Hexadecimal</a>
+
+* XorSequence 
+
+    * Path:<a href="./BitManipulation/XorSequence">./BitManipulation/XorSequence</a>
+
+* [Leetcode] 190. Reverse Bits 
+
+    * Path:<a href="./BitManipulation/[Leetcode] 190. Reverse Bits">./BitManipulation/[Leetcode] 190. Reverse Bits</a>
+
+* [Leetcode] 201. Bitwise AND of Numbers Range 
+
+    * Path:<a href="./BitManipulation/[Leetcode] 201. Bitwise AND of Numbers Range">./BitManipulation/[Leetcode] 201. Bitwise AND of Numbers Range</a>
+
+* [Lintcode] 179. Update Bits 
+
+    * Path:<a href="./BitManipulation/[Lintcode] 179. Update Bits">./BitManipulation/[Lintcode] 179. Update Bits</a>
+
+* [Leetcode] 137. Single Number II 
+
+    * Path:<a href="./BitManipulation/[Leetcode] 137. Single Number II">./BitManipulation/[Leetcode] 137. Single Number II</a>
+
+* AND Product 
+
+    * Path:<a href="./BitManipulation/AND Product">./BitManipulation/AND Product</a>
+
+* [Lintcode] 365. Count 1 in Binary 
+
+    * Path:<a href="./BitManipulation/[Lintcode] 365. Count 1 in Binary">./BitManipulation/[Lintcode] 365. Count 1 in Binary</a>
+
+* [Leetcode] 260. Single Number III 
+
+    * Path:<a href="./BitManipulation/[Leetcode] 260. Single Number III">./BitManipulation/[Leetcode] 260. Single Number III</a>
+
+## Functional Programming 
+
+* [careercup] 5720947240730624 Lambda B reduction 
+
+    * Path:<a href="./Functional Programming/[careercup] 5720947240730624 Lambda B reduction">./Functional Programming/[careercup] 5720947240730624 Lambda B reduction</a>
+
+    * Notes:<a href="./Functional Programming/[careercup] 5720947240730624 Lambda B reduction/notes.md">./Functional Programming/[careercup] 5720947240730624 Lambda B reduction/notes.md</a>
+
+## SegmentORBinaryIndexedTree 
+
+* [Leetcode] 327. Count of Range Sum 
+
+    * Path:<a href="./SegmentORBinaryIndexedTree/[Leetcode] 327. Count of Range Sum">./SegmentORBinaryIndexedTree/[Leetcode] 327. Count of Range Sum</a>
+
+* [Leetcode] 315. Count of Smaller Numbers After Self 
+
+    * Path:<a href="./SegmentORBinaryIndexedTree/[Leetcode] 315. Count of Smaller Numbers After Self">./SegmentORBinaryIndexedTree/[Leetcode] 315. Count of Smaller Numbers After Self</a>
+
+* [Lintcode] 205. Interval Minimum Number 
+
+    * Path:<a href="./SegmentORBinaryIndexedTree/[Lintcode] 205. Interval Minimum Number">./SegmentORBinaryIndexedTree/[Lintcode] 205. Interval Minimum Number</a>
+
+* [Leetcode] 307. Range Sum Query - Mutable 
+
+    * Path:<a href="./SegmentORBinaryIndexedTree/[Leetcode] 307. Range Sum Query - Mutable">./SegmentORBinaryIndexedTree/[Leetcode] 307. Range Sum Query - Mutable</a>
+
+* [Lintcode] 249. Count of Smaller Number 
+
+    * Path:<a href="./SegmentORBinaryIndexedTree/[Lintcode] 249. Count of Smaller Number">./SegmentORBinaryIndexedTree/[Lintcode] 249. Count of Smaller Number</a>
+
+* [Lintcode] 207. Interval Sum II 
+
+    * Path:<a href="./SegmentORBinaryIndexedTree/[Lintcode] 207. Interval Sum II">./SegmentORBinaryIndexedTree/[Lintcode] 207. Interval Sum II</a>
+
+## LinkedList 
+
+* [Lintcode] 98. Sort List 
+
+    * Path:<a href="./LinkedList/[Lintcode] 98. Sort List">./LinkedList/[Lintcode] 98. Sort List</a>
+
+* [Leetcode] 25. Reverse Nodes in k-Group 
+
+    * Path:<a href="./LinkedList/[Leetcode] 25. Reverse Nodes in k-Group">./LinkedList/[Leetcode] 25. Reverse Nodes in k-Group</a>
+
+* [Leetcode] 141. Linked List Cycle 
+
+    * Path:<a href="./LinkedList/[Leetcode] 141. Linked List Cycle">./LinkedList/[Leetcode] 141. Linked List Cycle</a>
+
+* [Lintcode] 511. Swap Two Nodes in Linked List 
+
+    * Path:<a href="./LinkedList/[Lintcode] 511. Swap Two Nodes in Linked List">./LinkedList/[Lintcode] 511. Swap Two Nodes in Linked List</a>
+
+* [Leetcode] 61. Rotate List 
+
+    * Path:<a href="./LinkedList/[Leetcode] 61. Rotate List">./LinkedList/[Leetcode] 61. Rotate List</a>
+
+* [Leetcode] 138. Copy List with Random Pointer 
+
+    * Path:<a href="./LinkedList/[Leetcode] 138. Copy List with Random Pointer">./LinkedList/[Leetcode] 138. Copy List with Random Pointer</a>
+
+* [Lintcode] 113. Remove Duplicates from Sorted List II 
+
+    * Path:<a href="./LinkedList/[Lintcode] 113. Remove Duplicates from Sorted List II">./LinkedList/[Lintcode] 113. Remove Duplicates from Sorted List II</a>
+
+* [Lintcode] 173. Insertion Sort List 
+
+    * Path:<a href="./LinkedList/[Lintcode] 173. Insertion Sort List">./LinkedList/[Lintcode] 173. Insertion Sort List</a>
+
+* [Leetcode] 160. Intersection of Two Linked Lists 
+
+    * Path:<a href="./LinkedList/[Leetcode] 160. Intersection of Two Linked Lists">./LinkedList/[Leetcode] 160. Intersection of Two Linked Lists</a>
+
+* [Leetcode] 234. Palindrome Linked List 
+
+    * Path:<a href="./LinkedList/[Leetcode] 234. Palindrome Linked List">./LinkedList/[Leetcode] 234. Palindrome Linked List</a>
+
+* [Leetcode] 24. Swap Nodes in Pairs 
+
+    * Path:<a href="./LinkedList/[Leetcode] 24. Swap Nodes in Pairs">./LinkedList/[Leetcode] 24. Swap Nodes in Pairs</a>
+
+* [Leetcode] 142. Linked List Cycle II 
+
+    * Path:<a href="./LinkedList/[Leetcode] 142. Linked List Cycle II">./LinkedList/[Leetcode] 142. Linked List Cycle II</a>
+
 ## Permutation 
 
 * [Lintcode] 197. Permutation Index 
@@ -1295,38 +1351,4 @@
 * [Leetcode] 77. Combinations 
 
     * Path:<a href="./Permutation/[Leetcode] 77. Combinations">./Permutation/[Leetcode] 77. Combinations</a>
-
-## HashTable 
-
-* [Leetcode] 554. Brick Wall 
-
-    * Path:<a href="./HashTable/[Leetcode] 554. Brick Wall">./HashTable/[Leetcode] 554. Brick Wall</a>
-
-    * Notes:<a href="./HashTable/[Leetcode] 554. Brick Wall/notes.md">./HashTable/[Leetcode] 554. Brick Wall/notes.md</a>
-
-* [Lintcode] 129. Rehashing 
-
-    * Path:<a href="./HashTable/[Lintcode] 129. Rehashing">./HashTable/[Lintcode] 129. Rehashing</a>
-
-* [Leetcode] 30. Substring with Concatenation of All Words 
-
-    * Path:<a href="./HashTable/[Leetcode] 30. Substring with Concatenation of All Words">./HashTable/[Leetcode] 30. Substring with Concatenation of All Words</a>
-
-* [Leetcode] 36. Valid Sudoku 
-
-    * Path:<a href="./HashTable/[Leetcode] 36. Valid Sudoku">./HashTable/[Leetcode] 36. Valid Sudoku</a>
-
-* [Leetcode] 356. Line Reflection 
-
-    * Path:<a href="./HashTable/[Leetcode] 356. Line Reflection">./HashTable/[Leetcode] 356. Line Reflection</a>
-
-* [Leetcode] 49. Group Anagrams 
-
-    * Path:<a href="./HashTable/[Leetcode] 49. Group Anagrams">./HashTable/[Leetcode] 49. Group Anagrams</a>
-
-* [Leetcode] 523. Continuous Subarray Sum 
-
-    * Path:<a href="./HashTable/[Leetcode] 523. Continuous Subarray Sum">./HashTable/[Leetcode] 523. Continuous Subarray Sum</a>
-
-    * Notes:<a href="./HashTable/[Leetcode] 523. Continuous Subarray Sum/notes.md">./HashTable/[Leetcode] 523. Continuous Subarray Sum/notes.md</a>
 
