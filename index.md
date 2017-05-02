@@ -114,13 +114,27 @@
 
     * Notes:<a href="./Array/[Leetcode] 529. Minesweeper/notes.md">./Array/[Leetcode] 529. Minesweeper/notes.md</a>
 
+* [Leetcode] 533. Lonely Pixel II 
+
+    * Path:<a href="./Array/[Leetcode] 533. Lonely Pixel II">./Array/[Leetcode] 533. Lonely Pixel II</a>
+
+    * Notes:<a href="./Array/[Leetcode] 533. Lonely Pixel II/notes.md">./Array/[Leetcode] 533. Lonely Pixel II/notes.md</a>
+
 * [Leetcode] 539. Minimum Time Difference 
 
     * Path:<a href="./Array/[Leetcode] 539. Minimum Time Difference">./Array/[Leetcode] 539. Minimum Time Difference</a>
 
+* [Leetcode] 548. Split Array with Equal Sum 
+
+    * Path:<a href="./Array/[Leetcode] 548. Split Array with Equal Sum">./Array/[Leetcode] 548. Split Array with Equal Sum</a>
+
 * [Leetcode] 56. Merge Interval 
 
     * Path:<a href="./Array/[Leetcode] 56. Merge Interval">./Array/[Leetcode] 56. Merge Interval</a>
+
+* [Leetcode] 560. Subarray Sum Equals K 
+
+    * Path:<a href="./Array/[Leetcode] 560. Subarray Sum Equals K">./Array/[Leetcode] 560. Subarray Sum Equals K</a>
 
 * [Leetcode] 57. Insert Interval 
 
@@ -548,6 +562,12 @@
 
     * Notes:<a href="./DynamicProgramming/[Leetcode] 552. Student Attendance Record/notes.md">./DynamicProgramming/[Leetcode] 552. Student Attendance Record/notes.md</a>
 
+* [Leetcode] 568. Maximum Vacation Days 
+
+    * Path:<a href="./DynamicProgramming/[Leetcode] 568. Maximum Vacation Days">./DynamicProgramming/[Leetcode] 568. Maximum Vacation Days</a>
+
+    * Notes:<a href="./DynamicProgramming/[Leetcode] 568. Maximum Vacation Days/notes.md">./DynamicProgramming/[Leetcode] 568. Maximum Vacation Days/notes.md</a>
+
 * [Leetcode] 62. Unique Paths 
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 62. Unique Paths">./DynamicProgramming/[Leetcode] 62. Unique Paths</a>
@@ -788,6 +808,12 @@
 
     * Path:<a href="./Heap/[Leetcode] 451. Sort Characters By Frequency">./Heap/[Leetcode] 451. Sort Characters By Frequency</a>
 
+* [Leetcode] 502. IPO 
+
+    * Path:<a href="./Heap/[Leetcode] 502. IPO">./Heap/[Leetcode] 502. IPO</a>
+
+    * Notes:<a href="./Heap/[Leetcode] 502. IPO/notes.md">./Heap/[Leetcode] 502. IPO/notes.md</a>
+
 * [Lintcode] 130. Heapify 
 
     * Path:<a href="./Heap/[Lintcode] 130. Heapify">./Heap/[Lintcode] 130. Heapify</a>
@@ -875,6 +901,8 @@
 * [Leetcode] 398. Random Pick Index 
 
     * Path:<a href="./Math/[Leetcode] 398. Random Pick Index">./Math/[Leetcode] 398. Random Pick Index</a>
+
+    * Notes:<a href="./Math/[Leetcode] 398. Random Pick Index/notes.md">./Math/[Leetcode] 398. Random Pick Index/notes.md</a>
 
 * [Leetcode] 469. Convex Polygon 
 

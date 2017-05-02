@@ -13,6 +13,10 @@ public class Solution {
         rng = new Random();
         this.nums = nums;
     }
+
+    public void setRng(Random rng) {
+        this.rng = rng;
+    }
     
     public int pick(int target) {
         int ret = -1;

@@ -4,6 +4,7 @@ public class Solution
 {
 	public TreeNode str2tree(String s) {
 		TreeNode tree = null;
+            System.out.println(s);
 		if (s.length()>0) {
 			ParseReturn token1 = parseFirstToken(s);
 			tree = token1.value;
@@ -14,7 +15,7 @@ public class Solution
 			}
 
 			if (end!=s.length()) {
-				int end2 = pairedParenthesisIndex(end+1, s);
+				int end2 = pairedParenthesisIndex(end, s);
 				tree.right = str2tree(s.substring(end+1, end2-1));
 			}
 		}
