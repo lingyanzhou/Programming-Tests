@@ -1,5 +1,11 @@
 # Interview Programming Tests
 
+## .g8-templates 
+
+* leetcode.g8 
+
+    * Path:<a href="./.g8-templates/leetcode.g8">./.g8-templates/leetcode.g8</a>
+
 ## Array 
 
 * [Geeks for Geeks] The Celebrity Problem 
@@ -1377,6 +1383,10 @@
     * Path:<a href="./Tree/[Leetcode] 94. Binary Tree Inorder Traversal">./Tree/[Leetcode] 94. Binary Tree Inorder Traversal</a>
 
 ## Trie 
+
+* [Algorithm] Surfix Tree 
+
+    * Path:<a href="./Trie/[Algorithm] Surfix Tree">./Trie/[Algorithm] Surfix Tree</a>
 
 * [Leetcode] 208. Implement Trie (Prefix Tree) 
 
