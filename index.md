@@ -1,11 +1,5 @@
 # Interview Programming Tests
 
-## .g8-templates 
-
-* leetcode.g8 
-
-    * Path:<a href="./.g8-templates/leetcode.g8">./.g8-templates/leetcode.g8</a>
-
 ## Array 
 
 * [Geeks for Geeks] The Celebrity Problem 
@@ -145,6 +139,12 @@
 * [Leetcode] 57. Insert Interval 
 
     * Path:<a href="./Array/[Leetcode] 57. Insert Interval">./Array/[Leetcode] 57. Insert Interval</a>
+
+* [Leetcode] 573. Squirrel Simulation 
+
+    * Path:<a href="./Array/[Leetcode] 573. Squirrel Simulation">./Array/[Leetcode] 573. Squirrel Simulation</a>
+
+    * Notes:<a href="./Array/[Leetcode] 573. Squirrel Simulation/notes.md">./Array/[Leetcode] 573. Squirrel Simulation/notes.md</a>
 
 * [Leetcode] 73. Set Matrix Zeroes 
 
@@ -573,6 +573,12 @@
     * Path:<a href="./DynamicProgramming/[Leetcode] 568. Maximum Vacation Days">./DynamicProgramming/[Leetcode] 568. Maximum Vacation Days</a>
 
     * Notes:<a href="./DynamicProgramming/[Leetcode] 568. Maximum Vacation Days/notes.md">./DynamicProgramming/[Leetcode] 568. Maximum Vacation Days/notes.md</a>
+
+* [Leetcode] 576. Out of Boundary Paths 
+
+    * Path:<a href="./DynamicProgramming/[Leetcode] 576. Out of Boundary Paths">./DynamicProgramming/[Leetcode] 576. Out of Boundary Paths</a>
+
+    * Notes:<a href="./DynamicProgramming/[Leetcode] 576. Out of Boundary Paths/notes.md">./DynamicProgramming/[Leetcode] 576. Out of Boundary Paths/notes.md</a>
 
 * [Leetcode] 62. Unique Paths 
 
@@ -1377,6 +1383,10 @@
 * [Leetcode] 549. Binary Tree Longest Consecutive Sequence II 
 
     * Path:<a href="./Tree/[Leetcode] 549. Binary Tree Longest Consecutive Sequence II">./Tree/[Leetcode] 549. Binary Tree Longest Consecutive Sequence II</a>
+
+* [Leetcode] 572. Subtree of Another Tree 
+
+    * Path:<a href="./Tree/[Leetcode] 572. Subtree of Another Tree">./Tree/[Leetcode] 572. Subtree of Another Tree</a>
 
 * [Leetcode] 94. Binary Tree Inorder Traversal 
 

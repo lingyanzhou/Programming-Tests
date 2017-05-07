@@ -26,7 +26,7 @@ for dirname, dirnames, filenames in os.walk('.'):
 
     # Advanced usage:
     # editing the 'dirnames' list will stop os.walk() from recursing into there.
-    for hidden in (".git", ".script", ".maven-archetype"):
+    for hidden in (".git", ".script", ".maven-archetype", ".g8-templates"):
         if hidden in dirnames:
             # don't go into any .git directories.
             dirnames.remove(hidden)
