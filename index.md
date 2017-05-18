@@ -402,6 +402,12 @@
 
     * Path:<a href="./DivideAndConquer/[Leetcode] 54. Spiral Matrix">./DivideAndConquer/[Leetcode] 54. Spiral Matrix</a>
 
+* [Leetcode] 587. Erect the Fence 
+
+    * Path:<a href="./DivideAndConquer/[Leetcode] 587. Erect the Fence">./DivideAndConquer/[Leetcode] 587. Erect the Fence</a>
+
+    * Notes:<a href="./DivideAndConquer/[Leetcode] 587. Erect the Fence/notes.md">./DivideAndConquer/[Leetcode] 587. Erect the Fence/notes.md</a>
+
 * [Lintcode] 366.  Fibonacci 
 
     * Path:<a href="./DivideAndConquer/[Lintcode] 366.  Fibonacci">./DivideAndConquer/[Lintcode] 366.  Fibonacci</a>
