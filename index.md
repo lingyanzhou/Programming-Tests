@@ -78,6 +78,12 @@
 
     * Path:<a href="./Array/[Leetcode] 448. Find All Numbers Disappeared in an Array">./Array/[Leetcode] 448. Find All Numbers Disappeared in an Array</a>
 
+* [Leetcode] 456. 132 Pattern 
+
+    * Path:<a href="./Array/[Leetcode] 456. 132 Pattern">./Array/[Leetcode] 456. 132 Pattern</a>
+
+    * Notes:<a href="./Array/[Leetcode] 456. 132 Pattern/notes.md">./Array/[Leetcode] 456. 132 Pattern/notes.md</a>
+
 * [Leetcode] 457. Circular Array Loop 
 
     * Path:<a href="./Array/[Leetcode] 457. Circular Array Loop">./Array/[Leetcode] 457. Circular Array Loop</a>
@@ -390,6 +396,8 @@
 
     * Path:<a href="./DivideAndConquer/[Leetcode] 282. Expression Add Operators">./DivideAndConquer/[Leetcode] 282. Expression Add Operators</a>
 
+    * Notes:<a href="./DivideAndConquer/[Leetcode] 282. Expression Add Operators/notes.md">./DivideAndConquer/[Leetcode] 282. Expression Add Operators/notes.md</a>
+
 * [Leetcode] 54. Spiral Matrix 
 
     * Path:<a href="./DivideAndConquer/[Leetcode] 54. Spiral Matrix">./DivideAndConquer/[Leetcode] 54. Spiral Matrix</a>
@@ -427,6 +435,12 @@
 * [Leetcode] 139. Word Break 
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 139. Word Break">./DynamicProgramming/[Leetcode] 139. Word Break</a>
+
+* [Leetcode] 140. Word Break II 
+
+    * Path:<a href="./DynamicProgramming/[Leetcode] 140. Word Break II">./DynamicProgramming/[Leetcode] 140. Word Break II</a>
+
+    * Notes:<a href="./DynamicProgramming/[Leetcode] 140. Word Break II/notes.md">./DynamicProgramming/[Leetcode] 140. Word Break II/notes.md</a>
 
 * [Leetcode] 152. Maximum Product Subarray 
 
@@ -490,9 +504,17 @@
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 337. House Robber III">./DynamicProgramming/[Leetcode] 337. House Robber III</a>
 
+* [Leetcode] 354. Russian Doll Envelopes 
+
+    * Path:<a href="./DynamicProgramming/[Leetcode] 354. Russian Doll Envelopes">./DynamicProgramming/[Leetcode] 354. Russian Doll Envelopes</a>
+
+    * Notes:<a href="./DynamicProgramming/[Leetcode] 354. Russian Doll Envelopes/notes.md">./DynamicProgramming/[Leetcode] 354. Russian Doll Envelopes/notes.md</a>
+
 * [Leetcode] 368. Largest Divisible Subset 
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 368. Largest Divisible Subset">./DynamicProgramming/[Leetcode] 368. Largest Divisible Subset</a>
+
+    * Notes:<a href="./DynamicProgramming/[Leetcode] 368. Largest Divisible Subset/notes.md">./DynamicProgramming/[Leetcode] 368. Largest Divisible Subset/notes.md</a>
 
 * [Leetcode] 377. Combination Sum IV 
 
@@ -509,6 +531,8 @@
 * [Leetcode] 416. Partition Equal Subset Sum 
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 416. Partition Equal Subset Sum">./DynamicProgramming/[Leetcode] 416. Partition Equal Subset Sum</a>
+
+    * Notes:<a href="./DynamicProgramming/[Leetcode] 416. Partition Equal Subset Sum/notes.md">./DynamicProgramming/[Leetcode] 416. Partition Equal Subset Sum/notes.md</a>
 
 * [Leetcode] 45. Jump Game II 
 
@@ -816,9 +840,21 @@
 
     * Path:<a href="./Heap/[Leetcode] 378. Kth Smallest Element in a Sorted Matrix">./Heap/[Leetcode] 378. Kth Smallest Element in a Sorted Matrix</a>
 
+* [Leetcode] 407. Trapping Rain Water II 
+
+    * Path:<a href="./Heap/[Leetcode] 407. Trapping Rain Water II">./Heap/[Leetcode] 407. Trapping Rain Water II</a>
+
+    * Notes:<a href="./Heap/[Leetcode] 407. Trapping Rain Water II/notes.md">./Heap/[Leetcode] 407. Trapping Rain Water II/notes.md</a>
+
 * [Leetcode] 451. Sort Characters By Frequency 
 
     * Path:<a href="./Heap/[Leetcode] 451. Sort Characters By Frequency">./Heap/[Leetcode] 451. Sort Characters By Frequency</a>
+
+* [Leetcode] 480. Sliding Window Median 
+
+    * Path:<a href="./Heap/[Leetcode] 480. Sliding Window Median">./Heap/[Leetcode] 480. Sliding Window Median</a>
+
+    * Notes:<a href="./Heap/[Leetcode] 480. Sliding Window Median/notes.md">./Heap/[Leetcode] 480. Sliding Window Median/notes.md</a>
 
 * [Leetcode] 502. IPO 
 
@@ -915,6 +951,12 @@
     * Path:<a href="./Math/[Leetcode] 398. Random Pick Index">./Math/[Leetcode] 398. Random Pick Index</a>
 
     * Notes:<a href="./Math/[Leetcode] 398. Random Pick Index/notes.md">./Math/[Leetcode] 398. Random Pick Index/notes.md</a>
+
+* [Leetcode] 43. Multiply Strings 
+
+    * Path:<a href="./Math/[Leetcode] 43. Multiply Strings">./Math/[Leetcode] 43. Multiply Strings</a>
+
+    * Notes:<a href="./Math/[Leetcode] 43. Multiply Strings/notes.md">./Math/[Leetcode] 43. Multiply Strings/notes.md</a>
 
 * [Leetcode] 469. Convex Polygon 
 
@@ -1174,6 +1216,12 @@
 
 ## StateMachine 
 
+* [Leetcode] 394. Decode String 
+
+    * Path:<a href="./StateMachine/[Leetcode] 394. Decode String">./StateMachine/[Leetcode] 394. Decode String</a>
+
+    * Notes:<a href="./StateMachine/[Leetcode] 394. Decode String/notes.md">./StateMachine/[Leetcode] 394. Decode String/notes.md</a>
+
 * [Leetcode] 65. Valid Number 
 
     * Path:<a href="./StateMachine/[Leetcode] 65. Valid Number">./StateMachine/[Leetcode] 65. Valid Number</a>
@@ -1413,4 +1461,14 @@
 * [Leetcode] 421. Maximum XOR of Two Numbers in an Array 
 
     * Path:<a href="./Trie/[Leetcode] 421. Maximum XOR of Two Numbers in an Array">./Trie/[Leetcode] 421. Maximum XOR of Two Numbers in an Array</a>
+
+## tmp 
+
+* 582. Kill Process 
+
+    * Path:<a href="./tmp/582. Kill Process">./tmp/582. Kill Process</a>
+
+* 587. Erect the Fence 
+
+    * Path:<a href="./tmp/587. Erect the Fence">./tmp/587. Erect the Fence</a>
 

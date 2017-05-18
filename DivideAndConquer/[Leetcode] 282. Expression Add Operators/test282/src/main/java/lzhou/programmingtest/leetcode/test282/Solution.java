@@ -3,6 +3,11 @@ package lzhou.programmingtest.leetcode.test282;
 import java.util.*;
 
 /*
+ * Back tracking solution
+ *
+ * Scans the string from left to right while trying diffent operators.
+ * The helper function keeps track of what the previous operator is.
+ * 
  * @note Boundary cases: consequtive 0s.
  */
 public class Solution {
@@ -15,12 +20,25 @@ public class Solution {
     }
     
     /*
-     * @note: lastNum represents the last number of a+b as b;
-     *                                              a-b as -b;
-     *                                              a*b as b.
-     *        lastMultiplication represents a*b as a*b
-     *                                      a+b*c as b*c
-     *                                      a+b as 1*b
+     * Try +, -, * and concatenate the number.
+     *
+     * * Simplify all expressions into this form `curval = prevval+lastMultiplication`, `lastMultiplication = coeff * lastNum`.
+     * * `lastNum` is always treated as part of `lastMultiplication`. Eg. `a+b` => `a+1*b`
+     * * `-` operator is treated as `+` and a unary `-`. `a-b` => `a+(-1*b)`. So we have three operator to deal with, +, *, concatenation.
+     * * Do not do lookahead, because by remembering `lastNum` `lastMultiplication`, we can correct the result based on them.
+     * 
+     * Eg.
+     *  | Some step: +    |                   |  `curval=prevval+c*b`  |  `lastMultiplication=c*b` | 
+     *  | Next step:    |                     |                         |                        |
+     *  |  Concatenation |      `b' = b*10+c` | `curval' = curval-b+b'` | `lastMultiplication'=lastMultiplication/b*b'=c*b'` |
+     *  |  + |      `b' = c` | `curval' = curval+b'` | `lastMultiplication'=b'` |
+     *  |  - |      `b' = c` | `curval' = curval+(-1)*b'` | `lastMultiplication'=-1*b''` |
+     *  |  * |      `b' = c` | `curval' = curval-lastMultiplication +lastMultiplication'` | `lastMultiplication'=lastMultiplication*b'=c*b*b'` |
+     *        
+     * 
+     * @param curVal: The value of the expression if it stops here. The value without lookahead.  
+     * @param lastNum: the last number.
+     * @param lastMultiplication: adjacent multiplication result.
      *        
      */
     private List<String> addOperatorsHelper(String num, int index, StringBuilder partial, int target, long curVal, long lastNum, long lastMultiplication, List<String> results) {

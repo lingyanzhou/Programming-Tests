@@ -1,4 +1,4 @@
-package lzhou.programmingtest.leetcode.test416;
+package lzhou.programmingtest.leetcode.test407;
 
 import java.util.*;
 import org.junit.*;
@@ -17,30 +17,27 @@ import static org.hamcrest.core.Every.everyItem;
  */
 @RunWith(Parameterized.class)
 public class SolutionTest {
-    @Parameters(name = "{index}: canPartition({0})={1}")
+    @Parameters(name = "{index}: trapRainWater({0})={1}")
     public static Iterable<Object[]> data() {
         return Arrays.asList(new Object[][] { 
-                 {new int[]{1}, false},
-                 {new int[]{2}, false},
-                 {new int[]{1,1}, true},
-                 {new int[]{1,1,2}, true},
-                 {new int[]{1,1,4}, false},
-                 {new int[]{1, 5, 11, 5}, true},
-                 {new int[]{1, 2, 3, 5}, false},
+                 {new int[][]{{1,2},{3,2}},0},
+                 {new int[][]{{2,2,2},{2,1,2},{2,2,2}},1},
+                 {new int[][]{{1,4,3,1,3,2},{3,2,1,3,2,4},{2,3,3,2,3,1}},4},
+                 {new int[][]{{12,13,0,12},{13,4,13,12},{13,8,10,12},{12,13,12,12},{13,13,13,13}},14},
            });
     }
-    private int[] in;
-    private boolean expected;
+    private int[][] in;
+    private int expected;
 
-    public SolutionTest(int[] in, boolean expected) {
+    public SolutionTest(int[][] in, int expected) {
         this.in = in;
         this.expected = expected;
     }
-    
+
     //global timeout rule
     @Rule
     public Timeout globalTimeout = Timeout.seconds(1);
-    
+
     // Run once, e.g. Database connection, connection pool
     @BeforeClass
     public static void runOnceBeforeClass() {
@@ -68,7 +65,7 @@ public class SolutionTest {
 
     @Test
     public void test() {
-        boolean actual = new Solution().canPartition(in);
+        int actual = new Solution().trapRainWater(in);
         assertThat(actual, is(expected));
     }
 }

@@ -4,8 +4,10 @@ import java.util.*;
 
 /**
  * DP: knapsack
+ *
+ * The problem is equivalent to finding a way to reach exactly half of the sum.
  */
-public class Solution {
+public class Solution2 {
     public boolean canPartition(int[] nums) {
         long sum = 0;
         for (int n:nums) {
