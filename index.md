@@ -366,6 +366,18 @@
 
     * Path:<a href="./Design/[Leetcode] 535. Encode and Decode TinyURL">./Design/[Leetcode] 535. Encode and Decode TinyURL</a>
 
+* [Leetcode] 582. Kill Process 
+
+    * Path:<a href="./Design/[Leetcode] 582. Kill Process">./Design/[Leetcode] 582. Kill Process</a>
+
+    * Notes:<a href="./Design/[Leetcode] 582. Kill Process/notes.md">./Design/[Leetcode] 582. Kill Process/notes.md</a>
+
+* [Leetcode] 588. Design In-Memory File System 
+
+    * Path:<a href="./Design/[Leetcode] 588. Design In-Memory File System">./Design/[Leetcode] 588. Design In-Memory File System</a>
+
+    * Notes:<a href="./Design/[Leetcode] 588. Design In-Memory File System/notes.md">./Design/[Leetcode] 588. Design In-Memory File System/notes.md</a>
+
 * [Lintcode] 128. Hash Function 
 
     * Path:<a href="./Design/[Lintcode] 128. Hash Function">./Design/[Lintcode] 128. Hash Function</a>
@@ -978,6 +990,18 @@
 
     * Path:<a href="./Math/[Leetcode] 553. Optimal Division">./Math/[Leetcode] 553. Optimal Division</a>
 
+* [Leetcode] 592. Fraction Addition and Subtraction 
+
+    * Path:<a href="./Math/[Leetcode] 592. Fraction Addition and Subtraction">./Math/[Leetcode] 592. Fraction Addition and Subtraction</a>
+
+    * Notes:<a href="./Math/[Leetcode] 592. Fraction Addition and Subtraction/notes.md">./Math/[Leetcode] 592. Fraction Addition and Subtraction/notes.md</a>
+
+* [Leetcode] 593. Valid Square 
+
+    * Path:<a href="./Math/[Leetcode] 593. Valid Square">./Math/[Leetcode] 593. Valid Square</a>
+
+    * Notes:<a href="./Math/[Leetcode] 593. Valid Square/notes.md">./Math/[Leetcode] 593. Valid Square/notes.md</a>
+
 * [Lintcode] 3. Digit Counts 
 
     * Path:<a href="./Math/[Lintcode] 3. Digit Counts">./Math/[Lintcode] 3. Digit Counts</a>
@@ -1467,14 +1491,4 @@
 * [Leetcode] 421. Maximum XOR of Two Numbers in an Array 
 
     * Path:<a href="./Trie/[Leetcode] 421. Maximum XOR of Two Numbers in an Array">./Trie/[Leetcode] 421. Maximum XOR of Two Numbers in an Array</a>
-
-## tmp 
-
-* 582. Kill Process 
-
-    * Path:<a href="./tmp/582. Kill Process">./tmp/582. Kill Process</a>
-
-* 587. Erect the Fence 
-
-    * Path:<a href="./tmp/587. Erect the Fence">./tmp/587. Erect the Fence</a>
 
