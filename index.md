@@ -622,6 +622,10 @@
 
     * Notes:<a href="./DynamicProgramming/[Leetcode] 576. Out of Boundary Paths/notes.md">./DynamicProgramming/[Leetcode] 576. Out of Boundary Paths/notes.md</a>
 
+* [Leetcode] 600. Non-negative Integers without Consecutive Ones 
+
+    * Path:<a href="./DynamicProgramming/[Leetcode] 600. Non-negative Integers without Consecutive Ones">./DynamicProgramming/[Leetcode] 600. Non-negative Integers without Consecutive Ones</a>
+
 * [Leetcode] 62. Unique Paths 
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 62. Unique Paths">./DynamicProgramming/[Leetcode] 62. Unique Paths</a>
@@ -779,6 +783,10 @@
 * [Leetcode] 547. Friend Circles 
 
     * Path:<a href="./GraphTheory/[Leetcode] 547. Friend Circles">./GraphTheory/[Leetcode] 547. Friend Circles</a>
+
+* [Leetcode] 565. Array Nesting 
+
+    * Path:<a href="./GraphTheory/[Leetcode] 565. Array Nesting">./GraphTheory/[Leetcode] 565. Array Nesting</a>
 
 * [Lintcode] 127. Topological Sorting 
 
