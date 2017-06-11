@@ -152,6 +152,12 @@
 
     * Notes:<a href="./Array/[Leetcode] 573. Squirrel Simulation/notes.md">./Array/[Leetcode] 573. Squirrel Simulation/notes.md</a>
 
+* [Leetcode] 611. Valid Triangle Number 
+
+    * Path:<a href="./Array/[Leetcode] 611. Valid Triangle Number">./Array/[Leetcode] 611. Valid Triangle Number</a>
+
+    * Notes:<a href="./Array/[Leetcode] 611. Valid Triangle Number/notes.md">./Array/[Leetcode] 611. Valid Triangle Number/notes.md</a>
+
 * [Leetcode] 73. Set Matrix Zeroes 
 
     * Path:<a href="./Array/[Leetcode] 73. Set Matrix Zeroes">./Array/[Leetcode] 73. Set Matrix Zeroes</a>
@@ -377,6 +383,10 @@
     * Path:<a href="./Design/[Leetcode] 588. Design In-Memory File System">./Design/[Leetcode] 588. Design In-Memory File System</a>
 
     * Notes:<a href="./Design/[Leetcode] 588. Design In-Memory File System/notes.md">./Design/[Leetcode] 588. Design In-Memory File System/notes.md</a>
+
+* [Leetcode] 604. Design Compressed String Iterator 
+
+    * Path:<a href="./Design/[Leetcode] 604. Design Compressed String Iterator">./Design/[Leetcode] 604. Design Compressed String Iterator</a>
 
 * [Lintcode] 128. Hash Function 
 
@@ -814,6 +824,12 @@
 
     * Path:<a href="./Greedy/[Leetcode] 435. Non-overlapping Intervals">./Greedy/[Leetcode] 435. Non-overlapping Intervals</a>
 
+* [Leetcode] 616. Add Bold Tag in String 
+
+    * Path:<a href="./Greedy/[Leetcode] 616. Add Bold Tag in String">./Greedy/[Leetcode] 616. Add Bold Tag in String</a>
+
+    * Notes:<a href="./Greedy/[Leetcode] 616. Add Bold Tag in String/notes.md">./Greedy/[Leetcode] 616. Add Bold Tag in String/notes.md</a>
+
 ## HashTable 
 
 * [Leetcode] 30. Substring with Concatenation of All Words 
@@ -843,6 +859,10 @@
     * Path:<a href="./HashTable/[Leetcode] 554. Brick Wall">./HashTable/[Leetcode] 554. Brick Wall</a>
 
     * Notes:<a href="./HashTable/[Leetcode] 554. Brick Wall/notes.md">./HashTable/[Leetcode] 554. Brick Wall/notes.md</a>
+
+* [Leetcode] 609. Find Duplicate File in System 
+
+    * Path:<a href="./HashTable/[Leetcode] 609. Find Duplicate File in System">./HashTable/[Leetcode] 609. Find Duplicate File in System</a>
 
 * [Lintcode] 129. Rehashing 
 
@@ -1259,6 +1279,12 @@
     * Path:<a href="./StateMachine/[Leetcode] 394. Decode String">./StateMachine/[Leetcode] 394. Decode String</a>
 
     * Notes:<a href="./StateMachine/[Leetcode] 394. Decode String/notes.md">./StateMachine/[Leetcode] 394. Decode String/notes.md</a>
+
+* [Leetcode] 591. Tag Validator 
+
+    * Path:<a href="./StateMachine/[Leetcode] 591. Tag Validator">./StateMachine/[Leetcode] 591. Tag Validator</a>
+
+    * Notes:<a href="./StateMachine/[Leetcode] 591. Tag Validator/notes.md">./StateMachine/[Leetcode] 591. Tag Validator/notes.md</a>
 
 * [Leetcode] 65. Valid Number 
 
