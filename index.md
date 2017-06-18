@@ -830,6 +830,14 @@
 
     * Notes:<a href="./Greedy/[Leetcode] 616. Add Bold Tag in String/notes.md">./Greedy/[Leetcode] 616. Add Bold Tag in String/notes.md</a>
 
+* [Leetcode] 621. Task Scheduler 
+
+    * Path:<a href="./Greedy/[Leetcode] 621. Task Scheduler">./Greedy/[Leetcode] 621. Task Scheduler</a>
+
+* [Leetcode] 625. Minimum Factorization 
+
+    * Path:<a href="./Greedy/[Leetcode] 625. Minimum Factorization">./Greedy/[Leetcode] 625. Minimum Factorization</a>
+
 ## HashTable 
 
 * [Leetcode] 30. Substring with Concatenation of All Words 
@@ -1499,6 +1507,10 @@
 * [Leetcode] 572. Subtree of Another Tree 
 
     * Path:<a href="./Tree/[Leetcode] 572. Subtree of Another Tree">./Tree/[Leetcode] 572. Subtree of Another Tree</a>
+
+* [Leetcode] 623. Add One Row to Tree 
+
+    * Path:<a href="./Tree/[Leetcode] 623. Add One Row to Tree">./Tree/[Leetcode] 623. Add One Row to Tree</a>
 
 * [Leetcode] 94. Binary Tree Inorder Traversal 
 
