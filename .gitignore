@@ -12,3 +12,5 @@
 **/.idea
 **/*.iws
 **/*.iml
+**/__pycache__
+**/*.pyc

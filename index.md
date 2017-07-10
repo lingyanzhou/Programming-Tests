@@ -644,6 +644,14 @@
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 63. Unique Paths II">./DynamicProgramming/[Leetcode] 63. Unique Paths II</a>
 
+* [Leetcode] 638. Shopping Offers 
+
+    * Path:<a href="./DynamicProgramming/[Leetcode] 638. Shopping Offers">./DynamicProgramming/[Leetcode] 638. Shopping Offers</a>
+
+* [Leetcode] 639. Decode Ways II 
+
+    * Path:<a href="./DynamicProgramming/[Leetcode] 639. Decode Ways II">./DynamicProgramming/[Leetcode] 639. Decode Ways II</a>
+
 * [Leetcode] 72. Edit Distance 
 
     * Path:<a href="./DynamicProgramming/[Leetcode] 72. Edit Distance">./DynamicProgramming/[Leetcode] 72. Edit Distance</a>
@@ -1293,6 +1301,10 @@
     * Path:<a href="./StateMachine/[Leetcode] 591. Tag Validator">./StateMachine/[Leetcode] 591. Tag Validator</a>
 
     * Notes:<a href="./StateMachine/[Leetcode] 591. Tag Validator/notes.md">./StateMachine/[Leetcode] 591. Tag Validator/notes.md</a>
+
+* [Leetcode] 640. Solve the Equation 
+
+    * Path:<a href="./StateMachine/[Leetcode] 640. Solve the Equation">./StateMachine/[Leetcode] 640. Solve the Equation</a>
 
 * [Leetcode] 65. Valid Number 
 
